@@ -1,0 +1,10 @@
+﻿@using Pedram.Framework.StartUpClasses;
+
+@{
+    var _UserContext = SmObjectFactory.Container.GetInstance<Pedram.Core.Domain.Users.IUserContext>();
+     var RTL = _UserContext.MyLanguage.RightToLeft;
+
+}
+<div class="center">
+    @Html.Action( "SelectLanguage", "Common" , new { area = "Admin" })
+</div>

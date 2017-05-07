@@ -1,0 +1,82 @@
+﻿@model Pedram.Web.Areas.Admin.Models.EditUserRoleViewModel
+@using Pedram.Framework.StartUpClasses;
+@using Pedram.Web.Models.Management;
+@{
+    Layout = "~/Views/Shared/_OneColumn.cshtml";
+    ViewBag.Title = T("Pedram.Admin.Access.Edit.Title1");
+  
+
+}
+
+
+
+
+
+<h2>ویرایش دسترسی کاربر</h2>
+@using (Html.BeginForm( "Edit", "Access", FormMethod.Post, new { @class = "form-horizontal", role = "form" } ))
+    {
+    @Html.AntiForgeryToken()
+    @Html.HiddenFor( m => m.UserId )
+    @Html.HiddenFor( m => m.UserName )
+    @Html.ValidationSummary()
+    <div class="form-group">
+        @if (!Configurations.UseEmailInsteadUserName)
+        {
+
+                @Html.LabelFor(m => m.UserName, new { @class = "control-label" })
+                <a> : </a>
+                @Html.DisplayFor(m => m.UserName, new { @class = "" })
+         
+        }
+        else
+        {
+                @Html.LabelFor(m => m.Email, new { @class = "control-label" })
+                <a> : </a>
+                @Html.DisplayFor(m => m.Email, new { @class = ""})
+           
+
+           
+        }
+
+
+
+
+       
+    </div>
+    <br />
+    <div class="form-group row">
+            <label class="control-label">@T("Pedram.Admin.Access.Edit.LabelRoles"):</label>
+        <br />
+        <div>
+            @if (Model != null)
+            {
+                if (Model.Roles != null)
+                {
+                    if (Model.Roles.Count()>0) {
+                        foreach (var role in Model.Roles)
+                        {
+                            <label>
+                                <input type="checkbox" name="SelectedRoleAccess[]" value="@role.Id" 
+                                    @if (Model.SelectedRoleAccess != null) {
+                                        if (Model.SelectedRoleAccess.Contains(role.Name))
+                                            { <text> checked="checked" </text>  } 
+                                    }
+                                /> @role.Name  
+                            </label>
+                            <br />
+                        }
+                    }
+                }
+            }
+        </div>
+    </div>
+
+    <div class="form-group row">
+        <div class="col-md-10">
+            <input type="submit" class="btn btn-default" value="@T("Pedram.Admin.Access.Edit.SubmitBtn")" />
+        </div>
+    </div>
+    }
+@section Scripts {
+    @*@Scripts.Render( "~/bundles/jqueryval" )*@
+}

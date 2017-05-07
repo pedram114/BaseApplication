@@ -1,0 +1,29 @@
+﻿@model ICollection< Pedram.Web.Models.CommonModel.SelectLanguageModel >
+@using Kendo.Mvc.UI;
+
+<div style="width:300px;">
+    <ul class="nav navbar-nav">
+        <li class="dropdown">
+
+            @foreach (var item in Model)
+                {
+                if (item.Selected)
+                    {
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="true">
+                            <img src="~/Images/flags/@item.LangIconAddress" />
+                            @item.LangName
+                            <span class="caret"></span>
+                        </a>
+                    }
+                }
+
+            <ul class="dropdown-menu" role="menu">
+                @foreach (var item in Model)
+                {
+                    <li role="presentation"><a href="@Url.Action("ChangedLanguage","Common",new { SelectedId = item.LanguageId,Url = Request.Url.AbsoluteUri } )" class="language" rel="@item.LangCalture"><img src="~/Images/flags/@item.LangIconAddress" alt="Italiano" /> @item.LangName</a></li>
+                }
+
+            </ul>
+        </li>
+    </ul>
+</div>

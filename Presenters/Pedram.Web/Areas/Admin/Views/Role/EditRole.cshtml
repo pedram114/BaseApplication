@@ -1,0 +1,156 @@
+﻿@model Pedram.Web.Areas.Admin.Models.EditRoleViewModel
+@using Kendo.Mvc.UI;
+@using Pedram.Framework.StartUpClasses;
+@{
+    ViewBag.Title = T("Pedram.Admin.Role.EditRole.Title1");
+    Layout = "~/Areas/Admin/Views/Shared/_OneColumn.cshtml";
+    var _UserContext = SmObjectFactory.Container.GetInstance<Pedram.Core.Domain.Users.IUserContext>();
+    var RTL = _UserContext.MyLanguage.RightToLeft;
+}
+
+<link href="~/Content/kendo/2016.1.226/kendo.common.min.css" rel="stylesheet" /><link href="~/Content/kendo/2016.1.226/kendo.rtl.min.css" rel="stylesheet" /><link href="~/Content/kendo/2016.1.226/kendo.default.min.css" rel="stylesheet" /><link href="~/Content/kendo/2016.1.226/kendo.default.mobile.min.css" rel="stylesheet" /><link href="~/Content/kendo/2016.1.226/kendo.mobile.all.min.css" rel="stylesheet" /><link href="/Content/shared/examples-offline.css" rel="stylesheet" /><script src="/Scripts/kendo.all.min.js"></script><script src="/Scripts/kendo.aspnetmvc.min.js"></script><script src="/Scripts/kendo.timezones.min.js"></script><script src="/Scripts/console.js"></script><script src="/Scripts/prettify.js"></script><script src="/Scripts/cultures/kendo.culture.en-US.min.js"></script>
+
+
+<script>
+    kendo.culture("@_UserContext.MyLanguage.LangCalture");
+</script>
+
+<h2>@ViewBag.Title</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    
+    <div id="MyForm" class="form-horizontal">
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        @Html.HiddenFor(model => model.Id)
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Name, new { @class = "control-label" })
+            @Html.EditorFor(model => model.Name)
+            @Html.ValidationMessageFor(model => model.Name, "", new { @class = "text-danger" })
+           
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.RoleAccesses, htmlAttributes: new { @class = "control-label" })
+                <div class="demo-section k-content @(RTL?" k-rtl":"")">
+                        @(Html.Kendo().TreeView()
+                            .Name("treeview")
+                            .Checkboxes(checkboxes => checkboxes
+                                .Name("checkedFiles")
+                                .CheckChildren(true)
+                            )
+                             .Events(events => events
+                                .Check("onCheck")
+                            )
+                            .Items(treeview =>
+                            {
+
+                                foreach (var item in Model.Controllers)
+                                {
+                                    string Controllername;
+                                    {
+                                        Controllername = string.IsNullOrWhiteSpace(item.Description) ? item.Name : item.Description;
+                                    }
+                                    treeview.Add().Text(Controllername).Id(item.Name)
+                                   .SpriteCssClasses("rootfolder")
+                                   .Expanded(true)
+                                   .Items(root =>
+                                   {
+                                       foreach (var item1 in item.Actions)
+                                       {
+                                           string Actionname;
+                                           {
+                                               Actionname = string.IsNullOrWhiteSpace(item1.Description) ? item1.Name : item1.Description;
+                                           }
+                                           if (Model.RoleAccesses.Where(s => s.Controller == item.Name).Where(ss => ss.Action == item1.Name).Count() > 0)
+                                               root.Add().Text(Actionname).Id(item.Name+"_"+item1.Name).SpriteCssClasses("html").Checked(true);
+                                           else
+                                               root.Add().Text(Actionname).Id(item.Name + "_" + item1.Name).SpriteCssClasses("html");
+                                       }
+                                   });
+                                }
+                            })
+                        )
+                    <div style="padding-top: 2em;">
+                        <h4>Status</h4>
+                        <p id="result">No nodes checked.</p>
+                    </div>
+                </div>
+            
+       </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="@T("Pedram.Admin.Access.Edit.SubmitBtn")" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+
+@section scripts{
+
+<script>
+
+    // function that gathers IDs of checked nodes
+    function checkedNodeIds(nodes, checkedNodes) {
+        for (var i = 0; i < nodes.length; i++) {
+            if (nodes[i].checked) {
+                checkedNodes.push(nodes[i].id);
+            }
+
+            if (nodes[i].hasChildren) {
+                checkedNodeIds(nodes[i].children.view(), checkedNodes);
+            }
+        }
+    }
+
+    // show checked node IDs on datasource change
+    function onCheck() {
+        var checkedNodes = [],
+            treeView = $("#treeview").data("kendoTreeView"),
+            message;
+
+        checkedNodeIds(treeView.dataSource.view(), checkedNodes);
+
+        if (checkedNodes.length > 0) {
+            message = "IDs of checked nodes: " + checkedNodes.join(",");
+        } else {
+            message = "No nodes checked.";
+        }
+        
+        $("#result").html(message);
+    }
+
+
+
+    $('#MyForm').on('submit', function (e) {
+        e.preventDefault();
+
+        var formData = @Model;
+
+        $.post('Admin/Role/EditRole', new {formData,checkedNodes}, function (response) {
+            //Do something with response
+        });
+    });
+</script>
+
+
+}
+<style>
+    #treeview .k-sprite {
+        background-image: url("@Url.Content("~/Content/web/treeview/coloricons-sprite.png")");
+    }
+
+    .rootfolder { background-position: 0 0; }
+    .folder     { background-position: 0 -16px; }
+    .pdf        { background-position: 0 -32px; }
+    .html       { background-position: 0 -48px; }
+    .image      { background-position: 0 -64px; }
+</style>

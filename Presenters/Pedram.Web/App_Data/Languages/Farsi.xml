@@ -1,0 +1,290 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Language DefaultEnglishName="Farsi" CustomName="فارسی" Calture="fa-IR" RightToLeft="true"  LangIconAddress="Ir.png" DefaultLang="true">
+  <LocalString LocalName="Pedram.Login.Email" LocalValue="پست الکترونیک"/>
+  <LocalString LocalName="Pedram.Login.Email" LocalValue="نام کاربری"/>
+  <LocalString LocalName="Pedram.Login.Password" LocalValue="رمز عبور"/>
+  <LocalString LocalName="Pedram.Login.RememberMe" LocalValue="من را به یاد بیاور"/>
+  <LocalString LocalName="Pedram.Login.RegisterNewUser" LocalValue="ایجاد حساب کاربری؟"/>
+  <LocalString LocalName="Pedram.Login.ForgeYourPassword" LocalValue="فراموشی کلمه عبور؟"/>
+  <LocalString LocalName="Pedram.Login.LoginBtn" LocalValue="ورود"/>
+  <LocalString LocalName="Pedram.Login.Title" LocalValue="ورود"/>
+  <LocalString LocalName="Pedram.Login.Title1" LocalValue="ورود به وسیله حساب کاربری داخلی"/>
+
+  <LocalString LocalName="Pedram.ExternalLoginList.Title" LocalValue="ورود با استفاده از حساب بیرونی"/>
+  
+  <LocalString LocalName="Pedram.VerifyCode.Code" LocalValue="کد"/>
+  <LocalString LocalName="Pedram.Login.RememberBrowser" LocalValue="به یاد آوردن بروزر؟"/>
+
+  <LocalString LocalName="Pedram.ResetPassword.Email" LocalValue="پست الکترونیک"/>
+  <LocalString LocalName="Pedram.ResetPassword.Password" LocalValue="رمز عبور"/>
+  <LocalString LocalName="Pedram.ResetPassword.ConfirmPassword" LocalValue="تایید کلمه عبور"/>
+  <LocalString LocalName="Pedram.ResetPassword.Title" LocalValue="بازیابی کلمه عبور"/>
+  <LocalString LocalName="Pedram.ResetPassword.Title1" LocalValue="ایجاد کلمه عبور جدید"/>
+  <LocalString LocalName="Pedram.ResetPassword.Btn" LocalValue="ایجاد"/>
+
+  <LocalString LocalName="Pedram.ResetPasswordConfirmation.Title" LocalValue="تایید بازیابی رمز عبور"/>
+  <LocalString LocalName="Pedram.ResetPasswordConfirmation.Text" LocalValue=" کلمه عبور شما به روزرسانی شده. لطفا "/>
+  <LocalString LocalName="Pedram.ResetPasswordConfirmation.LoginLink" LocalValue="برای ورود اینجا کلیک کنید"/>
+
+
+  <LocalString LocalName="Pedram.ForgetPassword.Email" LocalValue="پست الکترونیک"/>
+  <LocalString LocalName="Pedram.ForgetPassword.Title" LocalValue="کلمه عبور خود را فراموش کرده اید؟"/>
+  <LocalString LocalName="Pedram.ForgetPassword.Title1" LocalValue="پست الکترونیک خود را وارد نمایید"/>
+  <LocalString LocalName="Pedram.ForgetPassword.Btn" LocalValue="ارسال پست الکترونیک"/>
+
+
+  <LocalString LocalName="Pedram.ExternalLoginConfirmation.Email" LocalValue="پست الکترونیک"/>
+
+  <LocalString LocalName="Pedram.VerifyPhoneNumber.Code" LocalValue="کد"/>
+  <LocalString LocalName="Pedram.VerifyPhoneNumber.PhoneNumber" LocalValue="تلفن"/>
+
+  <LocalString LocalName="Pedram.SetPassword.NewPassword" LocalValue="رمز عبور"/>
+  <LocalString LocalName="Pedram.SetPassword.ConfirmNewPassword" LocalValue="تایید رمز عبور"/>
+
+  <LocalString LocalName="Pedram.ChangePassword.CurrentPassword" LocalValue="رمز عبور فعلی"/>
+  <LocalString LocalName="Pedram.ChangePassword.NewPassword" LocalValue="رمز عبور جدید"/>
+  <LocalString LocalName="Pedram.ChangePassword.ConfirmNewPassword" LocalValue="تایید رمز عبور جدید"/>
+
+  <LocalString LocalName="Pedram.AddPhoneNumber.PhoneNumber" LocalValue="شماره تلفن"/>
+
+  <LocalString LocalName="Pedram.Register.Email" LocalValue="پست الکترونیک"/>
+  <LocalString LocalName="Pedram.Register.Name" LocalValue="نام"/>
+  <LocalString LocalName="Pedram.Register.FamilyName" LocalValue="نام خانوادگی"/>
+  <LocalString LocalName="Pedram.Register.UserName" LocalValue="نام کاربری"/>
+  <LocalString LocalName="Pedram.Register.BirthDay" LocalValue="تاریخ تولد"/>
+  <LocalString LocalName="Pedram.Register.WorkDescription" LocalValue="شغل"/>
+  <LocalString LocalName="Pedram.Register.Password" LocalValue="رمز عبور"/>
+  <LocalString LocalName="Pedram.Register.ConfirmPassword" LocalValue="تایید کلمه عبور"/>
+  <LocalString LocalName="Pedram.Register.Title" LocalValue="ایجاد کاربر جدید"/>
+  <LocalString LocalName="Pedram.Register.Btn" LocalValue="عضویت"/>
+  <LocalString LocalName="Pedram.Register.Confirmyouraccount" LocalValue="تایید حساب کاربری"/>
+  <LocalString LocalName="Pedram.Register.ConfirmyouraccountText" LocalValue="لطفا با کلیک بر روی لینک زیر حساب کاربری خود را فعال نمایید: "/>
+
+  <LocalString LocalName="Pedram.Register.DisplayEmail.Title" LocalValue="ارسال پست الکترونیک فعال سازی"/>
+  <LocalString LocalName="Pedram.Register.DisplayEmail.Text" LocalValue="لطفا پست الکترونیک خود را بررسی نمایید و حساب کاربری خود را فعال کنید"/>
+
+
+  <LocalString LocalName="Pedram.ForgetPasswordConfirmation" LocalValue="لطفا پست الکترونیک خود را برای بازیابی رمز عبور بررسی نمایید."/>
+  <LocalString LocalName="Pedram.ForgetPasswordConfirmation.Title" LocalValue="تایید فراموشی رمز عبور"/>
+  
+  <LocalString LocalName="Pedram.Manage.Index.Title" LocalValue="مدیریت حساب کاربری"/>
+  <LocalString LocalName="Pedram.Manage.Index.ChangePasswordLink" LocalValue="تغییر کلمه عبور"/>
+  <LocalString LocalName="Pedram.Manage.Index.PickPasswordLink" LocalValue="انتخاب رمز عبور"/>
+  <LocalString LocalName="Pedram.Manage.Index.PhoneNumber.Change" LocalValue="تغییر"/>
+  <LocalString LocalName="Pedram.Manage.Index.PhoneNumber.Remove" LocalValue="حذف"/>
+  <LocalString LocalName="Pedram.Manage.Index.PhoneNumber.Add" LocalValue="اضافه"/>
+  <LocalString LocalName="Pedram.Manage.Index.PhoneNumber.Text" LocalValue="شماره تلفن"/>
+  <LocalString LocalName="Pedram.Manage.Index.ExternalLogins.Text" LocalValue="ورود با حساب مجازی"/>
+  <LocalString LocalName="Pedram.Manage.Index.ExternalLogins.ManageText" LocalValue="مدیریت"/>
+  <LocalString LocalName="Pedram.Manage.Index.TwoFactor.EnabledText" LocalValue="دو حالته فعال می باشد"/>
+  <LocalString LocalName="Pedram.Manage.Index.TwoFactor.DisabledText" LocalValue="دو حالته غیر فعال می باشد"/>
+  <LocalString LocalName="Pedram.Manage.Index.TwoFactor.EnableBtnText" LocalValue="فعال"/>
+  <LocalString LocalName="Pedram.Manage.Index.Browser.RememberedText" LocalValue="به یادآوری بروزر برای دو حالته"/>
+  <LocalString LocalName="Pedram.Manage.Index.Browser.NotRememberedText" LocalValue="فراموشی بروزر برای دو حالته"/>
+  <LocalString LocalName="Pedram.Manage.Index.Browser.ForgetBrowserBtnText" LocalValue="فراموشی بروزر"/>
+  <LocalString LocalName="Pedram.Manage.Index.Browser.RememberBrowserBtnText" LocalValue="به یادآوری بروزر"/>
+
+  <LocalString LocalName="Pedram.Manage.AddPhoneNumber.Title" LocalValue="افزودن شماره تلفن"/>
+  <LocalString LocalName="Pedram.Manage.AddPhoneNumber.Title1" LocalValue="افزوردن یک شماره تلفن"/>
+  <LocalString LocalName="Pedram.Manage.AddPhoneNumber.Btn" LocalValue="ارسال کد فعال سازی"/>
+
+  <LocalString LocalName="Pedram.Manage.VerifyPhoneNumber.Title" LocalValue="تایید شماره تلفن"/>
+  <LocalString LocalName="Pedram.Manage.VerifyPhoneNumber.Title1" LocalValue="افزودن شماره تلفن"/>
+  <LocalString LocalName="Pedram.Manage.VerifyPhoneNumber.Btn" LocalValue="تایید"/>
+
+  <LocalString LocalName="Pedram.Manage.ChangePassword.Title" LocalValue="تغییر کلمه عبور"/>
+  <LocalString LocalName="Pedram.Manage.ChangePassword.Title1" LocalValue="فرم تغییر کلمه عبور"/>
+  <LocalString LocalName="Pedram.Manage.ChangePassword.Btn" LocalValue="تغییر کلمه عبور"/>
+
+
+  
+  <LocalString LocalName="Pedram.Admin.Menus.Management" LocalValue="مدیریت"/>
+  <LocalString LocalName="Pedram.Admin.Menus.Management.UsersAccessManagement" LocalValue="مدیریت سطوح دسترسی کاربران"/>
+  <LocalString LocalName="Pedram.Admin.Menus.Management.EditUsersAccesses" LocalValue="تغیر دسترسی کاربران"/>
+  <LocalString LocalName="Pedram.Admin.Menus.Management.RolesManagement" LocalValue="مدیریت رول ها"/>
+  <LocalString LocalName="Pedram.Admin.Menus.Management.Videos" LocalValue="ویدیوها"/>
+  
+  
+  
+  <LocalString LocalName="Pedram.Admin.RoleManagement" LocalValue="مدیریت دسترسی ها"/>
+  <LocalString LocalName="Pedram.Admin.RoleManagement.Create" LocalValue="ایجاد سطح دسترسی"/>
+  <LocalString LocalName="Pedram.Admin.RoleManagement.Model.RoleName" LocalValue="نام رول"/>  
+
+
+  <LocalString LocalName="Pedram.Admin.Access.Edit.Title1" LocalValue="تغیر دسترسی کاربران"/>
+  <LocalString LocalName="Pedram.Admin.Access.Edit.LabelRoles" LocalValue="سطوح دسترسی"/>
+  <LocalString LocalName="Pedram.Admin.Access.Edit.SubmitBtn" LocalValue="به روز رسانی"/>
+  <LocalString LocalName="Pedram.Admin.Access.Edit.Model.UserName" LocalValue="نام کاربری"/>
+  <LocalString LocalName="Pedram.Admin.Access.Edit.Model.Email" LocalValue="پست الکترونیک"/>
+  <LocalString LocalName="Pedram.Admin.Access.Index.Title1" LocalValue="لیست دسترسی ها"/>
+  <LocalString LocalName="Pedram.Admin.Access.Index.LabelEdit" LocalValue="تغییر"/>
+  
+
+  <LocalString LocalName="Pedram.Admin.Role.Create.Name" LocalValue="نام سطح دسترسی"/>
+  <LocalString LocalName="Pedram.Admin.Role.Create.Title1" LocalValue="ایجاد سطح دسترسی"/>
+  <LocalString LocalName="Pedram.Admin.Role.Create.AccessListLabel" LocalValue="لیست سطوح دسترسی ها"/>
+  <LocalString LocalName="Pedram.Admin.Role.Create.CreateBtn" LocalValue="ایجاد سطح دسترسی"/>
+
+  <LocalString LocalName="Pedram.Admin.Role.Index.Title1" LocalValue="صفحه مدیریت رول ها"/>
+  <LocalString LocalName="Pedram.Admin.Role.Index.CreateRoleBtn" LocalValue="ایجاد رول جدید"/>
+  <LocalString LocalName="Pedram.Admin.Role.Index.EditRoleBtn" LocalValue="تغییر رول"/>
+  <LocalString LocalName="Pedram.Admin.Role.Index.DeleteRoleBtn" LocalValue="حذف رول"/>
+  <LocalString LocalName="Pedram.Admin.Role.Index.DetailsRoleBtn" LocalValue="جزیات رول"/>
+
+  <LocalString LocalName="Pedram.Admin.Role.EditRole.Title1" LocalValue="تغییر رول"/>
+
+  <LocalString LocalName="Pedram.Admin.Role.VideoManagement.InsertShowVideo" LocalValue="افزودن ویدیوهای فوتر"/>
+  <LocalString LocalName="Pedram.Admin.Role.VideoManagement.ShowAllVideos" LocalValue="لیست ویدیو ها"/>
+  <LocalString LocalName="Pedram.Admin.Role.VideoManagement.DeleteVideo" LocalValue="حذف ویدیو"/>
+  <LocalString LocalName="Pedram.Admin.Role.VideoManagement.EditVideo" LocalValue="تغییر ویدیو"/>
+  <LocalString LocalName="Pedram.Admin.SlideShow.InsertSlideShow" LocalValue="تعریف اسلایدها"/>
+
+  <LocalString LocalName="Pedram.Controller.Scenario" LocalValue="مدیریت سناریوها"/>
+  <LocalString LocalName="Pedram.Controller.Createscenario" LocalValue="ایجاد سناریو"/>
+  
+  <LocalString LocalName="Pedram.Controller.Home" LocalValue="خانه"/>
+  <LocalString LocalName="Pedram.Controller.Home.Index" LocalValue="صفحه اصلی"/>
+  <LocalString LocalName="Pedram.Controller.Home.About" LocalValue="درباره ما"/>
+  <LocalString LocalName="Pedram.Controller.Home.Contact" LocalValue="ارتباط با ما"/>
+  <LocalString LocalName="Pedram.Controller.Account" LocalValue="حساب کاربری"/>
+  <LocalString LocalName="Pedram.Controller.Account.ForgetPassword" LocalValue="فراموشی رمز عبور"/>
+  <LocalString LocalName="Pedram.Controller.Account.Login" LocalValue="صفحه ورود"/>
+  <LocalString LocalName="Pedram.Controller.Account.LogOut" LocalValue="خروج"/>
+  <LocalString LocalName="Pedram.Controller.Account.Register" LocalValue="عضویت"/>
+  <LocalString LocalName="Pedram.Controller.Account.ResetPassword" LocalValue="بازنمایی رمز عبور"/>
+  <LocalString LocalName="Pedram.Controller.Manage" LocalValue="مدیریت"/>
+  <LocalString LocalName="Pedram.Controller.Manage.AddPhoneNumber" LocalValue="افزودن شماره تلفن"/>
+  <LocalString LocalName="Pedram.Controller.Manage.ChangePassword" LocalValue="تغییر رمز عبور"/>
+  <LocalString LocalName="Pedram.Controller.AdminPanel.Role" LocalValue="صفحه نقش سطوح دسترسی"/>
+  <LocalString LocalName="Pedram.Controller.AdminPanel.Role.Create" LocalValue="ایجای صطح دسترسی"/>
+  <LocalString LocalName="Pedram.Controller.AdminPanel.Role.EditRoles" LocalValue="صفحه تغییر رول ها"/>
+  <LocalString LocalName="Pedram.Controller.AdminPanel.Role.Index" LocalValue="صفحه مدیریت رول ها"/>
+  <LocalString LocalName="Pedram.Controller.AdminPanel.Access" LocalValue="سطح دسترسی"/>
+  <LocalString LocalName="Pedram.Controller.AdminPanel.Access.AccessList" LocalValue="لیست دسترسی"/>
+  <LocalString LocalName="Pedram.Controller.AdminPanel.Access.EditAccess" LocalValue="تغیر سطوح دسترسی"/>
+  <LocalString LocalName="Pedram.Controller.AdminPanel.AdminHome" LocalValue="صفحه ادمین"/>
+  <LocalString LocalName="Pedram.Controller.AdminPanel.AdminHome.Index" LocalValue="صفحه اصلی"/>
+  <LocalString LocalName="Pedram.Controller.AdminPanel.AdminHome.ChangeSiteSetting" LocalValue="تغییر تنظیمات سایت"/>
+  <LocalString LocalName="Pedram.Controller.ProductController" LocalValue="محصولات"/>
+  <LocalString LocalName="Pedram.Controller.xmlController.ShowSitemap" LocalValue="نقشه سایت"/>
+
+
+
+
+
+  <LocalString LocalName="Pedram.MainPage.LoginLbl" LocalValue="ورود"/>
+  <LocalString LocalName="Pedram.MainPage.ProAccessLbl" LocalValue="دسترسی ویژه"/>
+  <LocalString LocalName="Pedram.MainPage.StoreLocator" LocalValue="محل فروشگاه"/>  
+  <LocalString LocalName="Pedram.MainPage.FindAPointOfSell" LocalValue="یافتن یک فروشگاه"/>
+  <LocalString LocalName="Pedram.MainPage.StoreName" LocalValue="دژاک"/>
+  <LocalString LocalName="Pedram.MainPage.Product" LocalValue="محصولات"/>
+
+
+  <LocalString LocalName="Pedram.ShowProduct.OurProduct" LocalValue="محصولات ما"/>
+  <LocalString LocalName="Pedram.ShowProduct.Section1" LocalValue="دراین باره"/>
+  <LocalString LocalName="Pedram.ShowProduct.Section2" LocalValue="موتور"/>
+  <LocalString LocalName="Pedram.ShowProduct.Section3" LocalValue="چرا دژاک؟"/>
+  <LocalString LocalName="Pedram.ShowProduct.Section4" LocalValue="راهنمای تصمیم گیری"/>
+  <LocalString LocalName="Pedram.ShowProduct.Section5" LocalValue="امکانات ویژه"/>
+  
+  
+  <LocalString LocalName="Pedram.ShowProductViewModel.ProductName" LocalValue="نام محصول"/>
+  <LocalString LocalName="Pedram.ShowProductViewModel.ProductDescription" LocalValue="توضیحات"/>
+  <LocalString LocalName="Pedram.ShowProductViewModel.TechnicalCharacteristic" LocalValue="توضیحات فنی"/>
+
+  <LocalString LocalName="Pedram.InsertProductGroupModel.Name" LocalValue="نام"/>
+  <LocalString LocalName="Pedram.InsertProductGroupModel.Desc" LocalValue="توضیحات"/>
+  <LocalString LocalName="Pedram.InsertProductGroupModel.ProductImageUpload" LocalValue="بارگذاری تصویر محصول"/>
+  <LocalString LocalName="Pedram.InsertProductGroupModel.ProductVectorImageUpload" LocalValue="بارگذاری تصاویر وکتور"/>
+  <LocalString LocalName="Pedram.InsertProductGroupModel.TechnicalCharacteristic" LocalValue="توضیحات فنی"/>
+  <LocalString LocalName="Pedram.InsertProductGroupModel.ProductBuyPrice" LocalValue="قیمت خرید"/>
+  <LocalString LocalName="Pedram.InsertProductGroupModel.ProductSellPrice" LocalValue="قیمت فروش"/>
+  <LocalString LocalName="Pedram.InsertProductGroupModel.ProductDescription" LocalValue="توضیحات محصول"/>
+  
+  <LocalString LocalName="Pedram.ProductManagementController.InsertProductGroup" LocalValue="افزودن گروه محصولات جدید"/>
+  <LocalString LocalName="Pedram.ProductManagementController.EditProductGroup" LocalValue="تغییر گروه محصولات جدید"/>
+  <LocalString LocalName="Pedram.ProductManagementController.InsertProductAttachment" LocalValue="افزودن زیرگروه محصولات جدید"/>
+  <LocalString LocalName="Pedram.ProductManagementController.EditProductAttachment" LocalValue="تغییر زیرگروه محصولات"/>
+  <LocalString LocalName="Pedram.ProductManagementController.InsertProduct" LocalValue="افزودن محصول برای زیر گروه"/>
+  <LocalString LocalName="Pedram.ProductManagementController.EditProduct" LocalValue="تغییر"/>
+  <LocalString LocalName="Pedram.ProductManagementController.ShowAllProductGroups" LocalValue="لیست گروه محصولات"/>
+  <LocalString LocalName="Pedram.ProductManagementController.ShowAllProductAttachments" LocalValue="لیست زیر گروهای محصولات"/>
+  <LocalString LocalName="Pedram.ProductManagementController.ShowAllProduct" LocalValue="لیست محصولات"/>
+  <LocalString LocalName="Pedram.ProductManagementController.AddNewProduct" LocalValue="افزودن محصول جدید و ادامه"/>
+  <LocalString LocalName="Pedram.ProductManagementController.EditProduct" LocalValue="تغییر محصول"/>
+  <LocalString LocalName="Pedram.ProductManagementController.InsertProductGroupPageAbout" LocalValue="در این باره"/>
+  <LocalString LocalName="Pedram.ProductManagementController.EditProductGroupPageAbout" LocalValue="تغییر در این باره"/>
+
+  <LocalString LocalName="Pedram.ProductManagementController.ShowAllProduct.Delete" LocalValue="حذف محصول"/>
+
+  <LocalString LocalName="Pedram.ProductManagementController.ShowAllProductGroups.EditProductGroup" LocalValue="تغییر"/>
+  <LocalString LocalName="Pedram.ProductManagementController.ShowAllProductGroups.EditProductAttachment" LocalValue="تغییر"/>
+  <LocalString LocalName="Pedram.ProductManagementController.ShowAllProductGroups.DeleteProductGroup" LocalValue="حذف"/>
+  <LocalString LocalName="Pedram.ProductManagementController.ShowAllProductGroups.InsertProduct" LocalValue="افزودن محصول برای زیر گروه"/>
+  <LocalString LocalName="Pedram.ProductManagementController.ShowAllProductGroups.InsertProductAtachments" LocalValue="افزودن زیر گروه"/>
+  <LocalString LocalName="Pedram.ProductManagementController.ShowAllProductGroups.InsertProductGroupPageAbout" LocalValue="تعریف درباره محصول"/>
+  <LocalString LocalName="Pedram.ProductManagementController.ShowAllProductGroups.InsertProductGroupPageMotor" LocalValue="تعریف موتور محصول"/>
+  <LocalString LocalName="Pedram.ProductManagementController.ShowAllProductGroups.InsertProductGroupPageWhyDejak" LocalValue="تعریف چرا دژاک"/>
+  <LocalString LocalName="Pedram.ProductManagementController.ShowAllProductGroups.InsertProductGroupPageChooseMySolution" LocalValue="تعریف راهنمای تصمیم گیری"/>
+  <LocalString LocalName="Pedram.ProductManagementController.ShowAllProductGroups.InsertProductGroupPageFindMyProduct" LocalValue="تعریف امکانات ویژه"/>
+  <LocalString LocalName="Pedram.ProductManagementController.ShowAllProductGroups.ManageGroup" LocalValue="مدیریت"/>
+  <LocalString LocalName="Pedram.ProductManagementController.ShowAllProductGroups.Define" LocalValue="تعاریف"/>
+  <LocalString LocalName="Pedram.ProductManagementController.ShowAllProductGroups.Edit" LocalValue="تغییرات"/>
+  <LocalString LocalName="Pedram.ProductManagementController.ShowAllProductGroups.EditProductGroupPageAbout" LocalValue="تغییر درباره محصول"/>
+  <LocalString LocalName="Pedram.ProductManagementController.ShowAllProductGroups.EditProductGroupPageMotor" LocalValue="تغییر موتور محصول"/>
+  <LocalString LocalName="Pedram.ProductManagementController.ShowAllProductGroups.EditProductGroupPageWhyDejak" LocalValue="تغییر چرا دژاک"/>
+  <LocalString LocalName="Pedram.ProductManagementController.ShowAllProductGroups.EditProductGroupPageChooseMySolution" LocalValue="تغییر راهنمای تصمیم گیری"/>
+  <LocalString LocalName="Pedram.ProductManagementController.ShowAllProductGroups.EditProductGroupPageFindMyProduct" LocalValue="تغییر امکانات ویژه"/>
+  
+
+  <LocalString LocalName="Pedram.ShowAllProductGroupsModel.Priority" LocalValue="اولویت نمایش"/>
+  <LocalString LocalName="Pedram.ShowAllProductGroupsModel.Desc" LocalValue="توضیحات"/>
+  <LocalString LocalName="Pedram.ShowAllProductGroupsModel.Name" LocalValue="نام"/>
+
+  <LocalString LocalName="Pedram.ShowAllProductViewModel.ProductGroupName" LocalValue="نام گروه محصول"/>
+  <LocalString LocalName="Pedram.ShowAllProductViewModel.ProductAttachmentName" LocalValue="نام زیر گروه محصول"/>
+  <LocalString LocalName="Pedram.ShowAllProductViewModel.Name" LocalValue="نام محصول"/>
+  <LocalString LocalName="Pedram.ShowAllProductViewModel.Desc" LocalValue="توضیحات"/>
+  <LocalString LocalName="Pedram.ShowAllProductViewModel.ProductDescription" LocalValue="توضیحات محصول"/>
+  <LocalString LocalName="Pedram.ShowAllProductViewModel.Priority" LocalValue="الویت"/>
+
+  <LocalString LocalName="Pedram.InsertProductGroupPageAboutModel.AboutImage1" LocalValue="بارگذاری تصویر"/>
+  <LocalString LocalName="Pedram.InsertProductGroupPageAboutModel.AboutHeader1" LocalValue="تیتر"/>
+  <LocalString LocalName="Pedram.InsertProductGroupPageAboutModel.AboutParagraph1" LocalValue="توضیحات"/>
+
+  <LocalString LocalName="Pedram.SlideShowController.InsertSlideShow" LocalValue="افزودن اسلاید ها"/>
+
+  <LocalString LocalName="Pedram.SlideShowViewModel.Image1" LocalValue="تصویر اول"/>
+  <LocalString LocalName="Pedram.SlideShowViewModel.Image2" LocalValue="تصویر دوم"/>
+  <LocalString LocalName="Pedram.SlideShowViewModel.Image3" LocalValue="تصویر سوم"/>
+
+  <LocalString LocalName="Pedram.SlideShowModel.Header" LocalValue="تیتر اسلایدها"/>
+  <LocalString LocalName="Pedram.SlideShowModel.Text1" LocalValue="توضیحات تصویر اول"/>
+  <LocalString LocalName="Pedram.SlideShowModel.Text2" LocalValue="توضیحات تصویر دوم"/>
+  <LocalString LocalName="Pedram.SlideShowModel.Text3" LocalValue="توضیحات تصویر سوم"/>
+  <LocalString LocalName="Pedram.SlideShowModel.FooterText" LocalValue="توضیحات پایین اسلایدها"/>
+
+  <LocalString LocalName="Pedram.ConfirmAlert.DeleteConfirm" LocalValue="آیا شما مطمئن هستید کهه می حواهید این اطلاعات را حذف نمایید؟"/>
+  <LocalString LocalName="Pedram.ConfirmAlert.DeleteTitle" LocalValue="تایید حذف"/>
+  <LocalString LocalName="Pedram.ConfirmAlert.DeleteYes" LocalValue="بله، حذف شود!"/>
+  <LocalString LocalName="Pedram.ConfirmAlert.DeleteNo" LocalValue="خیر، بیخیال!"/>
+
+
+  <LocalString LocalName="Pedram.WebApplicationName" LocalValue="ایران دژاک"/>
+  <LocalString LocalName="Pedram.WebApplicationDescription" LocalValue="توضیحات سایت ایران دژاک"/>
+  <LocalString LocalName="Pedram.Copywrite" LocalValue="کپی رایت سایت ایران دژاک"/>
+
+
+  <LocalString LocalName="Pedram.EditSetting.UseEmailInsteadUserName" LocalValue="استفاده از ایمیل بجای نام کاربری"/>
+  <LocalString LocalName="Pedram.EditSetting.WebsiteDomainName" LocalValue="آدرس اینترنتی وب سایت"/>
+  <LocalString LocalName="Pedram.EditSetting.copywrite" LocalValue="حق کپی رایت"/>
+  <LocalString LocalName="Pedram.EditSetting.UseCachToLoadLanguage" LocalValue="استفاده از کش"/>
+  <LocalString LocalName="Pedram.EditSetting.LogoImageUpload" LocalValue="تصاویر لوگو"/>
+  <LocalString LocalName="Pedram.EditSetting.WebApplicationName" LocalValue="نام وب سایت"/>
+  <LocalString LocalName="Pedram.EditSetting.WebApplicationDescription" LocalValue="توضیحات وب سایت"/>
+
+  <LocalString LocalName="Pedram.ShowProduct.AllDescriptions" LocalValue="توضیحات کامل محصول"/>
+
+
+  <LocalString LocalName="Pedram.Messages.NullText" LocalValue="نوشته پیدا نشد"/>
+</Language>

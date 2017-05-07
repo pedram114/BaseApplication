@@ -1,0 +1,37 @@
+﻿@model IEnumerable<Pedram.Web.Areas.Admin.Models.CustomRoleModel>
+
+@{
+    ViewBag.Title = T("Pedram.Admin.Role.Index.Title1");
+    Layout = "~/Areas/Admin/Views/Shared/_OneColumn.cshtml";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<p>
+    @Html.ActionLink(T("Pedram.Admin.Role.Index.CreateRoleBtn").ToString(), "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Name)
+        </td>
+        <td>
+            @Html.ActionLink(T("Pedram.Admin.Role.Index.EditRoleBtn").ToString(), "EditRole", new { RoleId = item.Id }) |
+            @Html.ActionLink(T("Pedram.Admin.Role.Index.DetailsRoleBtn").ToString(), "Details", new { id=item.Id }) |
+            @Html.ActionLink(T("Pedram.Admin.Role.Index.DeleteRoleBtn").ToString(), "Delete", new { id=item.Id })
+        </td>
+    </tr>
+}
+
+</table>
+@section Scripts {
+    @*@Scripts.Render( "~/bundles/jqueryval" )*@
+}

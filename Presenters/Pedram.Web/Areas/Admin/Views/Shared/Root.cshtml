@@ -1,0 +1,175 @@
+﻿@using Microsoft.AspNet.Identity;
+@using Pedram.Framework.StartUpClasses;
+@{
+    var _UserContext = SmObjectFactory.Container.GetInstance<Pedram.Framework.Helpers.IContextHelper>();
+    var CurrentContext = _UserContext.GetCurrentContext();
+    var RTL = CurrentContext.MyLanguage.RightToLeft;
+    ViewBag.Title = "Root";
+
+}
+
+<html>
+<head>
+    @Html.Partial( "RootHead" )
+</head>
+<body class="nav-md" >  
+      <div class="container body">
+        <div class="main_container">
+            <div class="col-md-3 left_col">
+                <div class="left_col" tabindex="5000">
+
+                    <div class="navbar nav_title" style="border: 0;">
+                        <a href="index.html" class="site_title"><i class="fa fa-paw"></i> <span>Empty!</span></a>
+                    </div>
+                    <div class="clearfix"></div>
+
+                    <!-- menu prile quick info -->
+                    <div class="profile">
+                        <div class="profile_pic">
+                            <img src="~/images/img.jpg" alt="..." class="img-circle profile_img">
+                        </div>
+                        <div class="profile_info">
+                            <span>Welcome,</span>
+                            <h2>Empty user</h2>
+                        </div>
+                    </div>
+                    <!-- /menu prile quick info -->
+                    <!-- sidebar menu -->
+                    <div id="sidebar-menu" class="main_menu_side hidden-print main_menu">
+                        <div class="menu_section">
+                            <h3>General</h3>
+                            <ul class="nav side-menu">
+                                <li class="active-sm">
+                                    <a href="@Url.Action("Index","AdminHome", new { area = "Admin" })"><i class="fa fa-home alignleft"></i> Home @*<span class="fa fa-chevron-down"></span>*@</a>
+
+                                </li>
+                                <li class="active-sm">
+                                    <a href="@Url.Action("Index","Home", new {Area = ""} )"><i class="fa fa-home"></i> Home حشلث @*<span class="fa fa-chevron-down"></span>*@</a>
+
+                                </li>
+
+                                <li class="active-sm">
+                                    <a href="@Url.Action("ChangeSiteSetting","AdminHome", new {Area = "Admin"} )"><i class="glyphicon glyphicon-cog"></i> @T("Pedram.Controller.AdminPanel.AdminHome.ChangeSiteSetting") @*<span class="fa fa-chevron-down"></span>*@</a>
+
+                                </li>
+
+                                <li>
+                                    <a><i class="fa fa-user-secret"></i> @T("Pedram.Admin.Menus.Management")<span class="fa fa-chevron-down"></span></a>
+                                    <ul class="nav child_menu" style="display: none">
+                                        <li>
+                                            <a href="@Url.Action("Index","Role",new { area = "Admin"})">@T("Pedram.Admin.Menus.Management.RolesManagement")</a>
+                                        </li>
+                                        <li>
+                                            <a href="@Url.Action("Index","Access",new { area = "Admin"})">@T("Pedram.Admin.Menus.Management.UsersAccessManagement")</a>
+                                        </li>
+                                        <li>
+                                            <a href="@Url.Action( "Register", "Account" , new {area = ""})">@T("Pedram.Register.Title")</a>
+                                        </li>
+                                    </ul>
+                                </li>
+
+                                    </ul>
+</div>
+                    </div>
+                    <!-- /sidebar menu -->
+                    <!-- /menu footer buttons -->
+
+                    <div class="sidebar-footer hidden-small">
+
+                        <a data-toggle="tooltip" data-placement="top" title="Lock">
+                            <span class="glyphicon glyphicon-eye-close" aria-hidden="true"></span>
+                        </a>
+                        @if (User.Identity.IsAuthenticated)
+                            {
+                            <a data-toggle="tooltip" data-placement="top" title="Settings" href="@Url.Action("Index","manage")">
+                                <span class="glyphicon glyphicon-cog" aria-hidden="true"></span>
+                            </a>
+
+                            <a data-toggle="tooltip" data-placement="top" title="Logout" href="@Url.Action( "Logout", "Account",new { area="" } )">
+                                <span class="glyphicon glyphicon-log-out" aria-hidden="true"></span>
+                            </a>
+
+                                        
+                            if (User.IsInRole( "Admin" ))
+                                            {
+                                <a data-toggle="tooltip" data-placement="top" title="Admin" href="@Url.Action( "Index", "AdminHome" , new { area = "Admin" })">
+                                    <span class="glyphicon glyphicon-magnet" aria-hidden="true"></span>
+                                </a>
+                                }
+                            }
+                      
+
+                    </div>
+                    <!-- /menu footer buttons -->
+                </div>
+            </div>
+
+            <!-- top navigation -->
+            <div class="top_nav">
+                <div class="nav_menu">
+                    <nav role="navigation">
+                        <div class="nav toggle col-sm-2">
+                            <a id="menu_toggle"><i class="fa fa-bars"></i></a>
+                        </div>
+                        <div class="LanguageSelector col-sm-3">
+                            @Html.Partial( "_Header" )
+                        </div>
+                       
+                        <div class="col-sm-2" style="padding-top:15px;">
+                            <div class="section">
+                                    <div class="row text-center">
+                                        <div class="col-xs-3 text-center">
+                                            <a><i class="fa fa-2x fa-instagram"></i></a>
+                                        </div>
+                                        <div class="col-xs-3">
+                                            <a><i class="fa fa-2x fa-fw fa-twitter"></i></a>
+                                        </div>
+                                        <div class="col-xs-3">
+                                            <a><i class="fa fa-2x fa-fw fa-facebook"></i></a>
+                                        </div>
+                                        <div class="col-xs-3 text-center">
+                                            <a><i class="fa fa-2x fa-fw fa-github"></i></a>
+                                        </div>
+                                    </div>
+                            </div>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+            <!-- /top navigation -->
+            <!-- page content -->
+            <div class="right_col">
+                <div class="row" dir="@(RTL ? "rtl" : "ltr")">
+                                @RenderBody()
+                </div>
+                <!-- footer content -->
+
+                <footer>
+                    <div class="copyright-info">
+                        <p class="pull-right">
+                            Gentelella - Bootstrap Admin Template by <a href="https://colorlib.com">Colorlib</a>
+                        </p>
+                    </div>
+                    <div class="clearfix"></div>
+                </footer>
+                <!-- /footer content -->
+            </div>
+            <!-- /page content -->
+
+        </div>
+
+    </div>
+
+    <div id="custom_notifications" class="custom-notifications dsp_none">
+        <ul class="list-unstyled notifications clearfix" data-tabbed_notifications="notif-group"></ul>
+        <div class="clearfix"></div>
+        <div id="notif-group" class="tabbed_notifications"></div>
+    </div>
+
+    <script>
+		NProgress.done();
+    </script>
+
+</body>
+
+</html>

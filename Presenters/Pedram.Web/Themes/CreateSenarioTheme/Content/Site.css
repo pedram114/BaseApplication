@@ -1,0 +1,220 @@
+﻿p, ul, h1, h2, h3, h4, h5, a {
+    margin:0;
+    padding:0 ;
+}
+body {
+    padding:0;
+    margin:0;
+}
+
+#page {
+    padding:0;
+    margin:0 auto;
+}
+
+.surheader .surheader-center ul {
+    list-style-type: none;
+    margin:0;
+    padding:0;
+    overflow:hidden;
+    background-color:#333333;
+    height:30px;
+}
+/* Slide Show  start*/ 
+.SlideSHowImg {
+    opacity:0.9;
+    cursor:pointer;
+    width:240px;
+    height:195px;
+    animation-fill-mode:forwards;
+    animation-play-state:running;
+}
+.SlideSHowImg:hover {
+   animation-name: SlideShowImages;
+   animation-duration: 0.3s;
+}
+@keyframes SlideShowImages {
+    from {width:240px;height:195px;opacity:0.9;}
+    to { width:250px;height:205px; opacity:1;}
+}
+
+@media screen and (max-width: 1000px) {
+  .Slides {
+   max-height:195px;
+   margin-top:30px;
+}
+}
+
+.Slides {
+   max-height:195px;
+   text-align:center;
+
+  
+}
+/* Slide Show  end*/ 
+.surheader .surheader-center ul li a {
+    display:block;
+    color: white;
+    text-align: center;    
+    text-decoration: none;
+    height:30px;
+}
+
+.surheader .surheader-center ul li a:hover {
+    color: #ff6a00;
+    
+}
+ .surheader .surheader-middle ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+   
+    background-color: #fab711;
+ }
+
+.surheader .surheader-middle .dropdown-menu {
+background-color:white;
+color:black;
+}
+.surheader .surheader-middle .dropdown-menu li a
+{
+    color:black;
+
+}
+ .surheader .surheader-middle ul li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 5px;
+    text-decoration: none;
+ }
+
+.surheader .surheader-middle .logo {
+font-size:40px;
+
+}
+#search_box {
+margin-top:10px;
+}
+#custom-search-input{
+    padding: 3px;
+    border: solid 1px #E4E4E4;
+    border-radius: 6px;
+    background-color: #fff;
+    
+}
+
+#custom-search-input input{
+    border: 0;
+    box-shadow: none;
+    height:36px;
+    font-size:13px;
+}
+
+#custom-search-input button{
+    margin: 2px 0 0 0;
+    background: none;
+    box-shadow: none;
+    border: 0;
+    color: #666666;
+    padding: 0 8px 0 4px;
+    border-left: solid 1px #ccc;
+}
+
+#custom-search-input button:hover{
+    border: 0;
+    box-shadow: none;
+    border-left: solid 1px #ccc;
+}
+
+#custom-search-input .glyphicon-search{
+    font-size: 24px;
+}
+
+#findPointOfService {
+
+margin-top:15px;
+}
+
+#main_menu .container {
+height:30px;
+}
+
+.SlidShow {
+
+    background-color:white;
+
+}
+
+.News {
+    height:25px;
+    background-color:#9da7b2;
+    color:white;
+   
+}
+
+.surheader_sites {
+    height:30px;
+
+}
+
+#product_list {
+ position: relative; z-index: 3;
+ height:97px;
+}
+
+#list_product {
+    margin: 0 auto;  
+    display:table;
+}
+
+nav ul {
+    list-style: none;
+}
+
+
+#list_product li {
+    float: left;
+    border-left: 1px solid #fff;
+    border-right: 1px solid #fff;
+    height: 97px;
+}
+    #list_product li:hover {
+    background-color:#fa9111;
+    }
+#list_product a {
+    text-decoration: none;
+    color:black;
+}
+
+.div_product {
+    height: 100%;
+    text-align: center;
+    cursor: pointer;
+    width: 94px;
+    padding: 3px;
+    overflow: hidden;
+}
+.div_product img {
+    margin-top: 13px;
+}
+
+
+
+
+.list_horizontal {
+    margin: 0;
+    padding: 0;
+}
+.list_horizontal>li {
+    float: left;
+    z-index: auto!important;
+    z-index: 1000;
+}
+.list_horizontal>li>a {
+    float: none!important;
+    float: left;
+    display: block;
+}
+
+

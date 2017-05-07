@@ -1,0 +1,51 @@
+﻿@model IEnumerable<Pedram.Web.Areas.Admin.Models.UserRoleViewModel>
+@using Pedram.Web.Models.Management;
+@{
+    Layout = "~/Views/Shared/_OneColumn.cshtml";
+    ViewBag.Title = T("Pedram.Admin.Access.Index.Title1");
+}
+
+<h2>@ViewBag.Title</h2>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor( m => m.UserName )
+            </th>
+            <th>
+                @Html.DisplayNameFor( m => m.Roles )
+            </th>
+            <th>
+                @T("Pedram.Admin.Access.Index.LabelEdit") 
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+            {
+            <tr>
+                @if (!Configurations.UseEmailInsteadUserName)
+                {
+                    <td>@Html.DisplayFor(m => user.UserName)</td>
+                }
+                else
+                {
+                    <td>@Html.DisplayFor(m => user.Email)</td>
+                }
+                <td>
+                    @foreach (var role in user.Roles)
+                    {
+                        <span>@Html.DisplayFor( m => role )  </span>
+                        <br />
+                    }
+                </td>
+                <td>
+                    @Html.ActionLink( T("Pedram.Admin.Access.Index.LabelEdit").ToString(), "Edit", new { id = user.UserId } )
+                </td>
+            </tr>
+            }
+    </tbody>
+</table>
+@section Scripts {
+    @*@Scripts.Render( "~/bundles/jqueryval" )*@
+}

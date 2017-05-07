@@ -1,0 +1,82 @@
+﻿@using Pedram.Framework.StartUpClasses;
+@{ 
+    var _UserContext = SmObjectFactory.Container.GetInstance<Pedram.Framework.Helpers.IContextHelper>();
+    var CurrentContext = _UserContext.GetCurrentContext();
+    var RTL = CurrentContext.MyLanguage.RightToLeft;
+
+}    
+  <div class="input-group col-md-12 row">
+            <input id="SearchInput" type="text" class="form-control input-lg" placeholder="Search" />
+            <span class="input-group-btn">
+                <button class="btn btn-lg" type="button">
+                    <i id="searchbtn" class='@(RTL?"fa fa-hand-o-right":"fa fa-hand-o-left")'></i>
+                </button>
+            </span>
+        </div>
+        <div class="input-group row col-sm-12 hidden" id="searchlist">
+          
+        </div>
+
+
+
+<script>
+    $('#SearchInput').keyup(function () {
+        var rtl='@RTL';
+        if ($('#SearchInput').val() == "")
+        {
+            $("#searchlist").empty();
+            $("#searchlist").addClass('hidden');
+            $('#searchbtn').removeClass('fa fa-spinner fa-spin');
+            $('#searchbtn').removeClass('fa fa-hand-o-down');
+            if(rtl=="True")
+                $('#searchbtn').addClass('fa fa-hand-o-right');
+            else
+                $('#searchbtn').addClass('fa fa-hand-o-left');
+            return;
+        }
+
+        $("#searchlist").removeClass('hidden');
+        $('#searchbtn').removeClass('fa fa-hand-o-right');
+        $('#searchbtn').removeClass('fa fa-hand-o-left');
+
+        
+        $('#searchbtn').removeClass('fa fa-hand-o-down');
+        $('#searchbtn').addClass('fa fa-spinner fa-spin');
+
+
+        $("#searchlist").empty();
+        var fff = $('#SearchInput').val();
+        $.ajax({
+            url: '@Url.Action("SearchAjax", "Common")',
+            data: JSON.stringify({ filter: fff }),
+            dataType: "json",
+            type: "POST",
+            contentType: 'application/json; charset=utf-8',
+            success: function (data) {
+                if (data != null)
+                    if (data.length > 0) {
+                        for (var i = 0; i < data.length; i++) {
+                            var text = " <div class='row border-blue'><div class='col-sm-8'>" +
+                                "<div class='row'>" + data[i].ProductName + "</div>" +
+                                //"<div class='row'>" + data[i].Description + "</div>" +
+                                "</div><div class='col-sm-4'>" +
+                                "<img width='80' height='80'/ src='" + data[i].ImageSrc + "'/></div></div>";
+                            $("#searchlist").append(text);
+                        }                       
+                        $('#searchbtn').removeClass('fa fa-spinner fa-spin');
+                        $('#searchbtn').addClass('fa fa-hand-o-down');
+                    } else {
+                        $('#searchbtn').removeClass('fa fa-spinner fa-spin');
+                        if (rtl == "True")
+                            $('#searchbtn').addClass('fa fa-hand-o-right');
+                        else
+                            $('#searchbtn').addClass('fa fa-hand-o-left');                        
+                    }
+                
+                return;
+
+            }
+        });
+    });
+
+</script>

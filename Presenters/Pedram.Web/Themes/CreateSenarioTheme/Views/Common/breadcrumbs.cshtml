@@ -1,0 +1,81 @@
+﻿@using Pedram.Framework.StartUpClasses;
+@{
+    var _UserContext = SmObjectFactory.Container.GetInstance<Pedram.Framework.Helpers.IContextHelper>();
+    var CurrentContext = _UserContext.GetCurrentContext();
+    var RTL = CurrentContext.MyLanguage.RightToLeft;
+
+}
+@if (CurrentContext.Breadcrumbs.Count > 0)
+{
+    <div class="row" style="max-width:90%;margin:0 auto;"id="custombrdr">
+        <div class="col-sm-8">
+                <ol class="breadcrumb" style="background-color:white;">
+                    @for (int i = 0; i < CurrentContext.Breadcrumbs.Count; i++)
+                    {
+                        bool last = false;
+                        if (i == CurrentContext.Breadcrumbs.Count - 1)
+                        {
+                            last = true;
+                        }
+                        string cn = CurrentContext.Breadcrumbs[i].Address.ControllerName;
+                        string view = CurrentContext.Breadcrumbs[i].Address.ActionName;
+                        string param = CurrentContext.Breadcrumbs[i].Address.Parameters;
+                        string showtext = CurrentContext.Breadcrumbs[i].ShowText;
+                        string url = Url.Action(view, cn);
+
+                        url += ("?" + param);
+                        if (cn.ToLower().Equals("home") && view.ToLower().Equals("index"))
+                        {
+                            <li style="background-color:white;" class='@(last?"active":"")'>
+                                <a href='@url'><i class="glyphicon glyphicon-home"></i></a>
+                            </li>
+                        }
+                       
+                        else
+                        {
+                            <li style="background-color:white;" class='@(last?"active":"")'>
+                                @if (last)
+                                {<span>@showtext</span> }
+                                else
+                                { <a href='@url'>@showtext</a>}
+                                
+                            </li>
+                        }
+                    }
+
+                </ol>
+           
+        </div>
+        <div class="col-sm-4">
+                <a style='margin:3px;float:@(RTL ? "left" : "right")' class="btn btn-social-icon btn-facebook"><i class="fa fa-facebook"></i></a>
+                <a style="margin:3px;float:@(RTL ? "left" : "right")" class="btn btn-social-icon btn-instagram"><i class="fa fa-instagram"></i></a>
+                <a style="margin:3px;float:@(RTL ? "left" : "right")" class="btn btn-social-icon btn-linkedin"><i class="fa fa-linkedin"></i></a>
+                <a style="margin:3px;float:@(RTL ? "left" : "right")" class="btn btn-social-icon btn-twitter"><i class="fa fa-twitter"></i></a>
+           
+        </div>
+    </div>
+    <div>
+        <hr />
+    </div>
+    <script>
+        $(function () {
+            var all_classes = "";
+            var timer = undefined;
+            $.each($('li', '.social-class'), function (index, element) {
+                all_classes += " btn-" + $(element).data("code");
+            });
+            $('li', '.social-class').mouseenter(function () {
+                var icon_name = $(this).data("code");
+                if ($(this).data("icon")) {
+                    icon_name = $(this).data("icon");
+                }
+                var icon = "<i class='fa fa-" + icon_name + "'></i>";
+                $('.btn-social', '.social-sizes').html(icon + "Sign in with " + $(this).data("name"));
+                $('.btn-social-icon', '.social-sizes').html(icon);
+                $('.btn', '.social-sizes').removeClass(all_classes);
+                $('.btn', '.social-sizes').addClass("btn-" + $(this).data('code'));
+            });
+            $($('li', '.social-class')[Math.floor($('li', '.social-class').length * Math.random())]).mouseenter();
+        });
+    </script>
+}

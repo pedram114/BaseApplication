@@ -1,0 +1,155 @@
+﻿@model Pedram.Web.Areas.Admin.Models.Management.EditSettings
+@using Pedram.Framework.StartUpClasses;
+@{
+    ViewBag.Title = T("Pedram.Controller.AdminPanel.AdminHome.ChangeSiteSetting");
+    Layout = "~/Areas/Admin/Views/Shared/_OneColumn.cshtml";
+    var _UserContext = SmObjectFactory.Container.GetInstance<Pedram.Framework.Helpers.IContextHelper>();
+    var CurrentContext = _UserContext.GetCurrentContext();
+    var RTL = CurrentContext.MyLanguage.RightToLeft;
+
+}
+
+<h2>@ViewBag.Title</h2>
+
+@using (Html.BeginForm("ChangeSiteSetting", "AdminHome", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            <div class="row">
+                <div class="col-md-11">
+                    <div id="tabs">
+                        <ul>
+                            @for (int i = 0; i < Model.Settings.Count(); i++)
+                            {
+                                @Html.HiddenFor(m => m.Settings[i].LanguageName)
+                                @Html.HiddenFor(m => m.Settings[i].LanguageId)
+                                @Html.HiddenFor(m => m.Settings[i].Id)
+                                <li><a href="#tabs-@i">@Model.Settings[i].LanguageName</a></li>
+                            }
+                        </ul>
+                        @for (int i = 0; i < Model.Settings.Count(); i++)
+                        {
+                            <div id="tabs-@i">
+                                <div class="item form-group">
+                                    @Html.LabelFor(m => m.Settings[i].WebApplicationName, htmlAttributes: new { @class = "control-label col-md-3 col-sm-3 col-xs-12" })
+                                    <span class="required">*</span>
+                                    <div class="col-md-6 col-sm-6 col-xs-12">
+                                        @Html.EditorFor(m => m.Settings[i].WebApplicationName)
+                                    </div>
+                                </div>
+                                <hr />
+                                <div class="item form-group">
+                                    @Html.LabelFor(m => m.Settings[i].WebApplicationDescription, htmlAttributes: new { @class = "control-label col-md-3 col-sm-3 col-xs-12" })
+                                    <div class="col-md-6 col-sm-6 col-xs-12">
+                                        @Html.EditorFor(m => m.Settings[i].WebApplicationDescription)
+                                    </div>
+                                </div>
+                                <hr />
+                                <div class="item form-group">
+                                    @Html.LabelFor(model => model.Settings[i].copywrite, htmlAttributes: new { @class = "control-label col-md-3 col-sm-3 col-xs-12" })
+                                    <div class="col-md-6 col-sm-6 col-xs-12">
+                                        @Html.EditorFor(model => model.Settings[i].copywrite, new { htmlAttributes = new { @class = "form-control" } })
+                                        @Html.ValidationMessageFor(model => model.Settings[i].copywrite, "", new { @class = "text-danger" })
+                                    </div>
+                                </div>
+
+                              
+                              
+                            </div>
+                        }                       
+                        <hr />
+                        <div class="item form-group">
+                            @Html.LabelFor(model => model.UseEmailInsteadUserName, htmlAttributes: new { @class = "control-label col-md-3 col-sm-3 col-xs-12" })
+                            <div class="col-md-6 col-sm-6 col-xs-12">
+                                <div class="checkbox">
+                                    @Html.EditorFor(model => model.UseEmailInsteadUserName)
+                                    @Html.ValidationMessageFor(model => model.UseEmailInsteadUserName, "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+                        </div>
+                        <hr />
+                       
+                        <div class="item form-group">
+                            @Html.LabelFor(model => model.UseCachToLoadLanguage, htmlAttributes: new { @class = "control-label col-md-3 col-sm-3 col-xs-12" })
+                            <div class="col-md-6 col-sm-6 col-xs-12">
+                                <div class="checkbox">
+                                    @Html.EditorFor(model => model.UseCachToLoadLanguage)
+                                    @Html.ValidationMessageFor(model => model.UseCachToLoadLanguage, "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+                        </div>
+                        <hr />
+                        <div class="item form-group">
+                            @Html.LabelFor(model => model.WebsiteDomainName, htmlAttributes: new { @class = "control-label col-md-3 col-sm-3 col-xs-12" })
+                            <div class="col-md-6 col-sm-6 col-xs-12">
+                                @Html.EditorFor(model => model.WebsiteDomainName, new { htmlAttributes = new { @class = "form-control" } })
+                                @Html.ValidationMessageFor(model => model.WebsiteDomainName, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+                        <hr />
+                        
+                        <div class="item form-group">
+                            @Html.LabelFor(m => m.LogoImageUpload, htmlAttributes: new { @class = "control-label col-md-3 col-sm-3 col-xs-12" })
+                            <span class="required">*</span>
+                            <div class="col-md-6 col-sm-6 col-xs-12">
+                                @Html.TextBoxFor(m => m.LogoImageUpload, new { type = "file", htmlAttributes = new { @class = "form-control", @required = "required", @placeholder = "" } })
+
+                            </div>
+                            <div class="col-md-3 col-sm-3 col-xs-12">
+                                <img style="width:220px;height:45px;" src="~/@Model.LogoAddress" />
+                            </div>
+
+                        </div>
+
+                        <div class="form-group">
+                            <div class="col-md-offset-2 col-md-10">
+                                <input type="submit" value="Save" class="btn btn-default" />
+                            </div>
+                        </div>
+
+
+                      
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+
+
+    </div>
+}
+
+    @section scripts{
+        <link href="~/Themes/CreateSenarioTheme/Content/jquery-ui.css" rel="stylesheet" />
+        <script src="~/Themes/CreateSenarioTheme/scripts/jquery-ui.js"></script>
+        <script>
+              $( function() {
+                $( "#tabs" ).tabs();
+              });
+
+
+        </script>
+        @if (RTL)
+            {
+            <style>
+                .ui-tabs {
+                    direction: rtl;
+                }
+
+                    .ui-tabs .ui-tabs-nav li.ui-tabs-selected,
+                    .ui-tabs .ui-tabs-nav li.ui-state-default {
+                        float: right;
+                    }
+
+                    .ui-tabs .ui-tabs-nav li a {
+                        float: right;
+                    }
+            </style>
+            }
+
+}
+

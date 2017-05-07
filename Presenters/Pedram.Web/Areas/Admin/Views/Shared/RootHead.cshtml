@@ -1,0 +1,91 @@
+﻿@using Pedram.Framework.StartUpClasses;
+@using Pedram.Web.Models.Management;
+<!-- Bootstrap core CSS -->
+
+
+
+
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>@ViewBag.Title - @Configurations.WebApplicationName</title>
+
+@{
+    var _UserContext = SmObjectFactory.Container.GetInstance<Pedram.Framework.Helpers.IContextHelper>();
+    var CurrentContext = _UserContext.GetCurrentContext();
+    var RTL = CurrentContext.MyLanguage.RightToLeft;
+}
+<script src="~/Themes/CreateSenarioTheme/scripts/jquery.min.js"></script>
+<link href="~/Themes/CreateSenarioTheme/Content/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+<link href="~/Themes/CreateSenarioTheme/Content/bootstrap-theme.min.css" rel="stylesheet" />
+<link href="~/Themes/CreateSenarioTheme/Content/fonts/css/font-awesome.css" rel="stylesheet" />
+
+
+
+<link href="~/Themes/CreateSenarioTheme/Content/fonts/font-awesome.min.css" rel="stylesheet">
+<link href="~/Themes/CreateSenarioTheme/Content/animate.min.css" rel="stylesheet">
+
+<!-- Custom styling plus plugins -->
+<link href="~/Themes/CreateSenarioTheme/Content/css/custom.css" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="~/Themes/CreateSenarioTheme/Content/css/maps/jquery-jvectormap-2.0.3.css" />
+<link href="~/Themes/CreateSenarioTheme/Content/css/icheck/flat/green.css" rel="stylesheet" />
+<link href="~/Themes/CreateSenarioTheme/Content/css/floatexamples.css" rel="stylesheet" type="text/css" />
+
+<script src="~/Themes/CreateSenarioTheme/js/nprogress.js"></script>
+
+
+
+<script src="~/Themes/CreateSenarioTheme/js/bootstrap.min.js"></script>
+<script src="~/Themes/CreateSenarioTheme/js/progressbar/bootstrap-progressbar.min.js"></script>
+<script src="~/Themes/CreateSenarioTheme/js/nicescroll/jquery.nicescroll.min.js"></script>
+<!-- icheck -->
+<script src="~/Themes/CreateSenarioTheme/js/icheck/icheck.min.js"></script>
+<!-- daterangepicker -->
+<script type="text/javascript" src="~/Themes/CreateSenarioTheme/js/moment/moment.min.js"></script>
+<script type="text/javascript" src="~/Themes/CreateSenarioTheme/js/datepicker/daterangepicker.js"></script>
+<script src="~/Themes/CreateSenarioTheme/js/custom.js"></script>
+
+<!-- flot js -->
+<!--[if lte IE 8]><script type="text/javascript" src="js/excanvas.min.js"></script><![endif]-->
+<script type="text/javascript" src="~/Themes/CreateSenarioTheme/js/flot/jquery.flot.js"></script>
+<script type="text/javascript" src="~/Themes/CreateSenarioTheme/js/flot/jquery.flot.pie.js"></script>
+<script type="text/javascript" src="~/Themes/CreateSenarioTheme/js/flot/jquery.flot.orderBars.js"></script>
+<script type="text/javascript" src="~/Themes/CreateSenarioTheme/js/flot/jquery.flot.time.min.js"></script>
+<script type="text/javascript" src="~/Themes/CreateSenarioTheme/js/flot/date.js"></script>
+<script type="text/javascript" src="~/Themes/CreateSenarioTheme/js/flot/jquery.flot.spline.js"></script>
+<script type="text/javascript" src="~/Themes/CreateSenarioTheme/js/flot/jquery.flot.stack.js"></script>
+<script type="text/javascript" src="~/Themes/CreateSenarioTheme/js/flot/curvedLines.js"></script>
+<script type="text/javascript" src="~/Themes/CreateSenarioTheme/js/flot/jquery.flot.resize.js"></script>
+
+
+<!-- worldmap -->
+<script type="text/javascript" src="~/Themes/CreateSenarioTheme/js/maps/jquery-jvectormap-2.0.3.min.js"></script>
+<script type="text/javascript" src="~/Themes/CreateSenarioTheme/js/maps/gdp-data.js"></script>
+<script type="text/javascript" src="~/Themes/CreateSenarioTheme/js/maps/jquery-jvectormap-world-mill-en.js"></script>
+<script type="text/javascript" src="~/Themes/CreateSenarioTheme/js/maps/jquery-jvectormap-us-aea-en.js"></script>
+<!-- pace -->
+<script src="~/Themes/CreateSenarioTheme/js/pace/pace.min.js"></script>
+
+<!-- skycons -->
+<script src="~/Themes/CreateSenarioTheme/js/skycons/skycons.min.js"></script>
+<script src="~/Themes/CreateSenarioTheme/js/parsley/parsley.min.js"></script>
+
+
+<script src="~/Themes/CreateSenarioTheme/Scripts/console.js"></script>
+<script src="~/Themes/CreateSenarioTheme/Scripts/prettify.js"></script>
+@if (RTL)
+{
+    <link href="~/Themes/CreateSenarioTheme/Content/css/RTL.css" rel="stylesheet" />
+}
+else
+{
+    <link href="~/Themes/CreateSenarioTheme/Content/css/LTR.css" rel="stylesheet" />
+}
+
+<script src="~/Themes/CreateSenarioTheme/scripts/bootstrap-datetimepicker.min.js"></script>
+@if (RTL)
+{
+
+    <link href="~/Themes/CreateSenarioTheme/Content/css/bootstrap-rtl.css" rel="stylesheet" type="text/css" />
+
+}
+

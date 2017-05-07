@@ -1,0 +1,51 @@
+﻿@model ICollection<Pedram.Web.Models.CommonModel.SelectLanguageModel>
+@using Pedram.Framework.StartUpClasses;
+@{
+
+
+    var _UserContext = SmObjectFactory.Container.GetInstance<Pedram.Framework.Helpers.IContextHelper>();
+    var CurrentContext = _UserContext.GetCurrentContext();
+    var RTL = CurrentContext.MyLanguage.RightToLeft;
+ }
+        <ul class="nav navbar-nav" style="margin:@(RTL==true?"15px 100px 0 0;":"15px 0px 0 100px;")" >
+            <li class="dropdown col-sm-12">
+
+                @foreach (var item in Model)
+                {
+                if (item.Selected)
+                    {
+                        <a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="true" rel="alternate">
+                            <img src="~/Images/flags/@item.LangIconAddress" alt="@item.LangName" />
+                            @item.LangName
+                            <span class="caret"></span>
+                        </a>
+                    }
+                }
+
+                <ul class="dropdown-menu" role="menu">
+                    @foreach (var item in Model)
+                    {
+                        if (!item.Selected)
+                        {
+                        <li class="col-sm-12" role="presentation">
+                            <a class="col-sm-12 language" href="@Url.Action("ChangedLanguage", "Common", new { SelectedId = item.LanguageId, Url = Request.Url.AbsoluteUri })" rel="alternate">
+                            <img src="~/Images/flags/@item.LangIconAddress" alt="@item.LangName" /> 
+                            @item.LangName
+                            </a></li>
+                        }
+                        else
+                        {
+                            <li class="col-sm-12" role="presentation">
+                                <a class="col-sm-12 language">
+                                    <img src="~/Images/flags/@item.LangIconAddress" alt="@item.LangName" />
+                                    @item.LangName
+                                </a>
+                            </li>
+                        }
+                    }
+
+                </ul>
+            </li>
+        </ul>
+
+

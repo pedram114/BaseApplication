@@ -1,0 +1,643 @@
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\Views\ApplicationInsights.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\roslyn\csc.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\roslyn\csc.exe.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\roslyn\csc.rsp
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\roslyn\csi.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\roslyn\csi.rsp
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\roslyn\System.AppContext.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\roslyn\System.Collections.Immutable.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\roslyn\System.Console.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\roslyn\System.IO.FileSystem.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\roslyn\System.Reflection.Metadata.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\roslyn\vbc.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\roslyn\vbc.exe.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\roslyn\vbc.rsp
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\roslyn\VBCSCompiler.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\roslyn\VBCSCompiler.exe.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\Pedram.Web.dll.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\Pedram.Web.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\Pedram.Web.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\Antlr3.Runtime.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\AutoMapper.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\dotless.Core.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\EntityFramework.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\EntityFramework.SqlServer.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\Microsoft.AI.Agent.Intercept.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\Microsoft.AI.DependencyCollector.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\Microsoft.AI.Web.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\Microsoft.AI.WindowsServer.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\Microsoft.ApplicationInsights.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\Microsoft.AspNet.Identity.Core.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.Cookies.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.Facebook.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.Google.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.OAuth.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.Twitter.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\Microsoft.Web.Infrastructure.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\Newtonsoft.Json.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\Owin.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\Pedram.Core.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\Pedram.Data.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\Pedram.Framework.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\Pedram.Services.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\StructureMap.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\StructureMap.Net4.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\StructureMap.Web.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\System.Net.Http.Formatting.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\System.Web.Helpers.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\System.Web.Http.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\System.Web.Http.WebHost.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\System.Web.Mvc.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\System.Web.Optimization.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\System.Web.Optimization.Less.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\System.Web.Razor.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\System.Web.Webpages.Deployment.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\System.Web.Webpages.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\System.Web.Webpages.Razor.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\T4MVCExtensions.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\WebGrease.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\Pedram.Core.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\Pedram.Services.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\Pedram.Data.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\Pedram.Framework.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\Antlr3.Runtime.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\AutoMapper.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\dotless.Core.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\EntityFramework.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\EntityFramework.SqlServer.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\Microsoft.AI.DependencyCollector.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\Microsoft.AI.Web.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\Microsoft.AI.WindowsServer.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\Microsoft.ApplicationInsights.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\Microsoft.AspNet.Identity.Core.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.Cookies.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.Facebook.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.Google.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.OAuth.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.Twitter.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\Newtonsoft.Json.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\StructureMap.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\StructureMap.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\StructureMap.Net4.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\StructureMap.Web.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\StructureMap.Web.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\System.Net.Http.Formatting.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\System.Web.Http.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\System.Web.Http.WebHost.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\System.Web.Optimization.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\System.Web.Optimization.Less.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\System.Web.Optimization.Less.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\System.Web.Razor.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\System.Web.Webpages.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\System.Web.Webpages.Deployment.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\System.Web.Webpages.Razor.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\System.Web.Helpers.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\bin\System.Web.Mvc.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\obj\Debug\Pedram.Web.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\obj\Debug\Pedram.Web.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\Presenters\Pedram.Web\obj\Debug\Pedram.Web.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\roslyn\csc.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\roslyn\csc.exe.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\roslyn\csc.rsp
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\roslyn\csi.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\roslyn\csi.rsp
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\roslyn\System.AppContext.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\roslyn\System.Collections.Immutable.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\roslyn\System.Console.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\roslyn\System.IO.FileSystem.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\roslyn\System.Reflection.Metadata.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\roslyn\vbc.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\roslyn\vbc.exe.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\roslyn\vbc.rsp
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\roslyn\VBCSCompiler.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\roslyn\VBCSCompiler.exe.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\Pedram.Web.dll.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\Pedram.Web.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\Pedram.Web.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\Antlr3.Runtime.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\AutoMapper.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\dotless.Core.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\EntityFramework.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\EntityFramework.SqlServer.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\Microsoft.AI.Agent.Intercept.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\Microsoft.AI.DependencyCollector.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\Microsoft.AI.Web.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\Microsoft.AI.WindowsServer.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\Microsoft.ApplicationInsights.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\Microsoft.AspNet.Identity.Core.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.Cookies.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.Facebook.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.Google.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.OAuth.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.Twitter.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\Microsoft.Web.Infrastructure.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\NetSpell.SpellChecker.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\Newtonsoft.Json.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\Owin.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\Pedram.Core.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\Pedram.Data.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\Pedram.Framework.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\Pedram.Services.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\RichTextEditor.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\StructureMap.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\StructureMap.Net4.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\StructureMap.Web.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\System.Net.Http.Formatting.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\System.Web.Helpers.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\System.Web.Http.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\System.Web.Http.WebHost.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\System.Web.Mvc.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\System.Web.Optimization.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\System.Web.Optimization.Less.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\System.Web.Razor.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\System.Web.Webpages.Deployment.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\System.Web.Webpages.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\System.Web.Webpages.Razor.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\T4MVCExtensions.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\WebGrease.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\Pedram.Core.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\Pedram.Services.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\Pedram.Data.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\Pedram.Framework.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\Antlr3.Runtime.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\AutoMapper.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\dotless.Core.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\EntityFramework.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\EntityFramework.SqlServer.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\Microsoft.AI.DependencyCollector.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\Microsoft.AI.Web.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\Microsoft.AI.WindowsServer.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\Microsoft.ApplicationInsights.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\Microsoft.AspNet.Identity.Core.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.Cookies.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.Facebook.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.Google.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.OAuth.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.Twitter.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\Newtonsoft.Json.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\StructureMap.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\StructureMap.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\StructureMap.Net4.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\StructureMap.Web.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\StructureMap.Web.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\System.Net.Http.Formatting.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\System.Web.Http.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\System.Web.Http.WebHost.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\System.Web.Optimization.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\System.Web.Optimization.Less.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\System.Web.Optimization.Less.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\System.Web.Razor.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\System.Web.Webpages.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\System.Web.Webpages.Deployment.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\System.Web.Webpages.Razor.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\System.Web.Helpers.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\bin\System.Web.Mvc.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\obj\Debug\Pedram.Web.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\obj\Debug\Pedram.Web.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\Presenters\Pedram.Web\obj\Debug\Pedram.Web.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\roslyn\csc.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\roslyn\csc.exe.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\roslyn\csc.rsp
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\roslyn\csi.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\roslyn\csi.rsp
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\roslyn\System.AppContext.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\roslyn\System.Collections.Immutable.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\roslyn\System.Console.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\roslyn\System.IO.FileSystem.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\roslyn\System.Reflection.Metadata.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\roslyn\vbc.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\roslyn\vbc.exe.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\roslyn\vbc.rsp
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\roslyn\VBCSCompiler.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\roslyn\VBCSCompiler.exe.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\Pedram.Web.dll.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\Pedram.Web.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\Pedram.Web.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\Antlr3.Runtime.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\AutoMapper.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\dotless.Core.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\EntityFramework.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\EntityFramework.SqlServer.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\Microsoft.AI.Agent.Intercept.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\Microsoft.AI.DependencyCollector.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\Microsoft.AI.Web.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\Microsoft.AI.WindowsServer.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\Microsoft.ApplicationInsights.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\Microsoft.AspNet.Identity.Core.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.Cookies.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.Facebook.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.Google.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.OAuth.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.Twitter.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\Microsoft.Web.Infrastructure.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\NetSpell.SpellChecker.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\Newtonsoft.Json.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\Owin.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\Pedram.Core.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\Pedram.Data.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\Pedram.Framework.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\Pedram.Services.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\RichTextEditor.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\StructureMap.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\StructureMap.Net4.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\StructureMap.Web.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\System.Net.Http.Formatting.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\System.Web.Helpers.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\System.Web.Http.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\System.Web.Http.WebHost.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\System.Web.Mvc.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\System.Web.Optimization.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\System.Web.Optimization.Less.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\System.Web.Razor.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\System.Web.Webpages.Deployment.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\System.Web.Webpages.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\System.Web.Webpages.Razor.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\T4MVCExtensions.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\WebGrease.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\Pedram.Core.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\Pedram.Services.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\Pedram.Data.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\Pedram.Framework.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\Antlr3.Runtime.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\AutoMapper.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\dotless.Core.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\EntityFramework.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\EntityFramework.SqlServer.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\Microsoft.AI.DependencyCollector.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\Microsoft.AI.Web.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\Microsoft.AI.WindowsServer.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\Microsoft.ApplicationInsights.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\Microsoft.AspNet.Identity.Core.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.Cookies.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.Facebook.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.Google.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.OAuth.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.Twitter.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\Newtonsoft.Json.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\StructureMap.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\StructureMap.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\StructureMap.Net4.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\StructureMap.Web.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\StructureMap.Web.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\System.Net.Http.Formatting.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\System.Web.Http.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\System.Web.Http.WebHost.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\System.Web.Optimization.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\System.Web.Optimization.Less.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\System.Web.Optimization.Less.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\System.Web.Razor.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\System.Web.Webpages.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\System.Web.Webpages.Deployment.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\System.Web.Webpages.Razor.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\System.Web.Helpers.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\bin\System.Web.Mvc.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\obj\Debug\Pedram.Web.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\obj\Debug\Pedram.Web.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\Presenters\Pedram.Web\obj\Debug\Pedram.Web.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\roslyn\csc.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\roslyn\csc.exe.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\roslyn\csc.rsp
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\roslyn\csi.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\roslyn\csi.rsp
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\roslyn\System.AppContext.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\roslyn\System.Collections.Immutable.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\roslyn\System.Console.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\roslyn\System.IO.FileSystem.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\roslyn\System.Reflection.Metadata.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\roslyn\vbc.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\roslyn\vbc.exe.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\roslyn\vbc.rsp
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\roslyn\VBCSCompiler.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\roslyn\VBCSCompiler.exe.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Pedram.Web.dll.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Pedram.Web.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Pedram.Web.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Antlr3.Runtime.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\AutoMapper.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\dotless.Core.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\EntityFramework.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\EntityFramework.SqlServer.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.AI.Agent.Intercept.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.AI.DependencyCollector.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.AI.Web.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.AI.WindowsServer.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.ApplicationInsights.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.AspNet.Identity.Core.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.Cookies.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.Facebook.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.Google.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.OAuth.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.Twitter.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.Web.Infrastructure.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\NetSpell.SpellChecker.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Newtonsoft.Json.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Owin.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Pedram.Core.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Pedram.Data.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Pedram.Framework.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Pedram.Services.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\RichTextEditor.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\StructureMap.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\StructureMap.Net4.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\StructureMap.Web.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\System.Net.Http.Formatting.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\System.Web.Helpers.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\System.Web.Http.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\System.Web.Http.WebHost.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\System.Web.Mvc.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\System.Web.Optimization.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\System.Web.Optimization.Less.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\System.Web.Razor.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\System.Web.Webpages.Deployment.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\System.Web.Webpages.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\System.Web.Webpages.Razor.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\T4MVCExtensions.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\WebGrease.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Pedram.Core.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Pedram.Core.dll.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Pedram.Services.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Pedram.Services.dll.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Pedram.Data.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Pedram.Data.dll.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Pedram.Framework.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Pedram.Framework.dll.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Antlr3.Runtime.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\AutoMapper.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\dotless.Core.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\EntityFramework.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\EntityFramework.SqlServer.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.AI.DependencyCollector.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.AI.Web.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.AI.WindowsServer.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.ApplicationInsights.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.AspNet.Identity.Core.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.Cookies.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.Facebook.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.Google.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.OAuth.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.Twitter.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Newtonsoft.Json.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\StructureMap.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\StructureMap.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\StructureMap.Net4.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\StructureMap.Web.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\StructureMap.Web.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\System.Net.Http.Formatting.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\System.Web.Http.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\System.Web.Http.WebHost.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\System.Web.Optimization.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\System.Web.Optimization.Less.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\System.Web.Optimization.Less.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\System.Web.Razor.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\System.Web.Webpages.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\System.Web.Webpages.Deployment.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\System.Web.Webpages.Razor.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\System.Web.Helpers.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\System.Web.Mvc.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\obj\Debug\Pedram.Web.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\obj\Debug\Pedram.Web.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\Presenters\Pedram.Web\obj\Debug\Pedram.Web.pdb
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\roslyn\csc.exe
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\roslyn\csc.exe.config
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\roslyn\csc.rsp
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\roslyn\csi.exe
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\roslyn\csi.rsp
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\roslyn\System.AppContext.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\roslyn\System.Collections.Immutable.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\roslyn\System.Console.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\roslyn\System.IO.FileSystem.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\roslyn\System.Reflection.Metadata.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\roslyn\vbc.exe
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\roslyn\vbc.exe.config
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\roslyn\vbc.rsp
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\roslyn\VBCSCompiler.exe
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\roslyn\VBCSCompiler.exe.config
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Pedram.Web.dll.config
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Pedram.Web.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Pedram.Web.pdb
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Antlr3.Runtime.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\AutoMapper.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\dotless.Core.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\EntityFramework.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\EntityFramework.SqlServer.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.AI.Agent.Intercept.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.AI.DependencyCollector.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.AI.Web.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.AI.WindowsServer.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.ApplicationInsights.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.AspNet.Identity.Core.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.Cookies.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.Facebook.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.Google.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.OAuth.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.Twitter.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.Web.Infrastructure.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\NetSpell.SpellChecker.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Newtonsoft.Json.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Owin.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Pedram.Core.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Pedram.Data.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Pedram.Framework.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Pedram.Services.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\RichTextEditor.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\StructureMap.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\StructureMap.Net4.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\StructureMap.Web.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\System.Net.Http.Formatting.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\System.Web.Helpers.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\System.Web.Http.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\System.Web.Http.WebHost.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\System.Web.Mvc.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\System.Web.Optimization.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\System.Web.Optimization.Less.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\System.Web.Razor.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\System.Web.Webpages.Deployment.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\System.Web.Webpages.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\System.Web.Webpages.Razor.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\T4MVCExtensions.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\WebGrease.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Pedram.Core.pdb
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Pedram.Services.pdb
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Pedram.Data.pdb
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Pedram.Framework.pdb
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Antlr3.Runtime.pdb
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\AutoMapper.xml
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\dotless.Core.pdb
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\EntityFramework.xml
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\EntityFramework.SqlServer.xml
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.AI.DependencyCollector.xml
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.AI.Web.xml
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.AI.WindowsServer.xml
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.ApplicationInsights.xml
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.AspNet.Identity.Core.xml
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.xml
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.xml
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.Cookies.xml
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.Facebook.xml
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.Google.xml
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.OAuth.xml
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Microsoft.Owin.Security.Twitter.xml
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\Newtonsoft.Json.xml
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\StructureMap.pdb
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\StructureMap.xml
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\StructureMap.Net4.pdb
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\StructureMap.Web.pdb
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\StructureMap.Web.xml
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\System.Net.Http.Formatting.xml
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\System.Web.Http.xml
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\System.Web.Http.WebHost.xml
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\System.Web.Optimization.xml
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\System.Web.Optimization.Less.pdb
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\System.Web.Optimization.Less.xml
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\System.Web.Razor.xml
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\System.Web.Webpages.xml
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\System.Web.Webpages.Deployment.xml
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\System.Web.Webpages.Razor.xml
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\System.Web.Helpers.xml
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\bin\System.Web.Mvc.xml
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\obj\Debug\Pedram.Web.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\obj\Debug\Pedram.Web.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\Presenters\Pedram.Web\obj\Debug\Pedram.Web.pdb

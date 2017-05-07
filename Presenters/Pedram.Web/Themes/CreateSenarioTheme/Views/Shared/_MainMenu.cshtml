@@ -1,0 +1,56 @@
+﻿<link href="~/Themes/CreateSenarioTheme/Content/css/MainMenu.css?t=@DateTime.Now.Ticks" rel="stylesheet"/>
+
+    <nav id="mainmenu" class="navbar" style="background-color:white;">
+        <div class="navbar-header">
+            <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".js-navbar-collapse">
+                <span class="sr-only YellowBG">Toggle navigation</span>
+                <span class="icon-bar YellowBG"></span>
+                <span class="icon-bar YellowBG"></span>
+                <span class="icon-bar YellowBG"></span>
+            </button>
+            <a class="navbar-brand">@T("Pedram.MainPage.StoreName")
+                <i class="glyphicon glyphicon-copyright-mark"></i>
+            </a>
+            
+        </div>
+
+        <div class="collapse navbar-collapse js-navbar-collapse">
+            <ul class="nav navbar-nav graycolor">
+                <li class="dropdown mega-dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown">@T("Pedram.MainPage.Product") 
+                    <span class="glyphicon glyphicon-chevron-down pull-right"></span></a>
+
+                    <ul class="dropdown-menu mega-dropdown-menu row" style="z-index:99999;">
+                       @*@Html.Action("ShowProduct","Common")*@
+                    </ul>
+                </li>
+                <li><a href="#">@T("Pedram.MainPage.StoreLocator")</a></li>
+                <li><a href="@Url.Action("About","Home")">@T("Pedram.Controller.Home.About")</a></li>
+                <li><a href="@Url.Action("Contact","Home")">@T("Pedram.Controller.Home.Contact")</a></li>
+                <li><a href="@Url.Action("ShowSitemap","xml")">@T("Pedram.Controller.xmlController.ShowSitemap")</a></li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+               
+            </ul>
+        </div><!-- /.nav-collapse -->
+    </nav>
+
+
+<script>
+    $(document).ready(function () {
+        $(".dropdown").hover(
+            function () {
+                $('.dropdown-menu', this).not('.in .dropdown-menu').stop(true, true).slideDown(0);
+                $(this).toggleClass('open');
+            },
+            function () {
+                $('.dropdown-menu', this).not('.in .dropdown-menu').stop(true, true).slideUp(100);
+                $(this).toggleClass('open');
+            }
+        );
+        //$(".dropdown").hover(
+        //    function (e) {
+        //        e.stopPropagation();
+        //    });
+    });
+</script>

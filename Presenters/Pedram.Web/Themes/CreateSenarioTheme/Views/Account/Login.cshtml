@@ -1,0 +1,78 @@
+﻿@using Pedram.Web.Models.Management;
+@model Pedram.Web.Models.Users.Login.LoginViewModel
+
+@{
+    ViewBag.Title = T("Pedram.Login.Title");
+    Layout = "~/Themes/CreateSenarioTheme/Views/Shared/_OneColumn.cshtml";
+}
+
+
+
+<duv class="row" style="height:300px;">
+
+    <div class="col-md-3"></div>
+    <div class="col-md-6">
+       
+    </div>
+    <div class="col-md-3">
+
+    </div>
+   
+  
+</duv>
+<div class="row">
+    <div class="col-md-3"></div>
+    <div class="col-md-6">
+        <section id="loginForm" style="border:2px solid black;background-color:white;">
+            @using (Html.BeginForm("Login", "Account", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, new { @class = "form-horizontal", role = "form" })) {
+                @Html.AntiForgeryToken()
+                <hr/>
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+                if (Configurations.UseEmailInsteadUserName)
+                {
+                    <div class="form-group">
+                        @Html.LabelFor(m => m.Email, new { @class = "col-md-4 control-label" })
+                        <div class="col-md-8">
+                            @Html.TextBoxFor(m => m.Email, new { @class = "form-control col-md-8" })
+                            @Html.ValidationMessageFor(m => m.Email, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+                }
+                else
+                {
+                    <div class="form-group">
+                        @Html.LabelFor(m => m.UserName, new { @class = "col-md-4 control-label" })
+                        <div class="col-md-8">
+                            @Html.TextBoxFor(m => m.UserName, new { @class = "form-control col-md-8" })
+                            @Html.ValidationMessageFor(m => m.UserName, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+                }
+
+
+
+                <div class="form-group">
+                    @Html.LabelFor(m => m.Password, new { @class = "col-md-4 control-label" })
+                    <div class="col-md-8">
+                        @Html.PasswordFor(m => m.Password, new { @class = "form-control col-md-8" })
+                        @Html.ValidationMessageFor(m => m.Password, "", new { @class = "text-danger" })
+                    </div>
+                </div>               
+                <div class="form-group">
+                    <div class="col-md-offset-6 col-md-6">
+                        <input type="submit" value="@T("Pedram.Login.LoginBtn")" class="btn btn-default" />
+                    </div>
+                </div>
+                <hr/>
+            }
+        </section>
+    </div>
+    <div class="col-md-3">
+       
+    </div>
+</div>
+
+@section Scripts{
+    
+    }

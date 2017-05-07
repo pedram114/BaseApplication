@@ -1,0 +1,298 @@
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Pedram.Data.dll.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Pedram.Data.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Pedram.Data.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Antlr3.Runtime.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\AutoMapper.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\dotless.Core.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\EntityFramework.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\EntityFramework.SqlServer.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.Owin.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.Owin.Security.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.Web.Infrastructure.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Newtonsoft.Json.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Owin.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Pedram.Core.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\StructureMap.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\StructureMap.Net4.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\StructureMap.Web.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\System.Net.Http.Formatting.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\System.Web.Http.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\System.Web.Http.WebHost.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\System.Web.Optimization.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\System.Web.Optimization.Less.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\WebGrease.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Pedram.Core.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Antlr3.Runtime.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\AutoMapper.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\dotless.Core.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\EntityFramework.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\EntityFramework.SqlServer.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.Owin.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.Owin.Security.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Newtonsoft.Json.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\StructureMap.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\StructureMap.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\StructureMap.Net4.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\StructureMap.Web.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\StructureMap.Web.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\System.Net.Http.Formatting.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\System.Web.Http.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\System.Web.Http.WebHost.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\System.Web.Optimization.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\System.Web.Optimization.Less.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\System.Web.Optimization.Less.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\DataAccess Layer\Pedram.Data\obj\Debug\Pedram.Data.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\DataAccess Layer\Pedram.Data\obj\Debug\Pedram.Data.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\DataAccess Layer\Pedram.Data\obj\Debug\Pedram.Data.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\DataAccess Layer\Pedram.Data\obj\Debug\Pedram.Data.Migrations.dqwdwqdqwdwqd.resources
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Pedram\DataAccess Layer\Pedram.Data\obj\Debug\Pedram.Data.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Pedram.Data.dll.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Pedram.Data.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Pedram.Data.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Antlr3.Runtime.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\AutoMapper.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\dotless.Core.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\EntityFramework.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\EntityFramework.SqlServer.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.Owin.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.Owin.Security.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.Web.Infrastructure.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Newtonsoft.Json.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Owin.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Pedram.Core.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\StructureMap.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\StructureMap.Net4.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\StructureMap.Web.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\System.Net.Http.Formatting.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\System.Web.Http.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\System.Web.Http.WebHost.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\System.Web.Optimization.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\System.Web.Optimization.Less.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\WebGrease.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Pedram.Core.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Antlr3.Runtime.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\AutoMapper.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\dotless.Core.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\EntityFramework.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\EntityFramework.SqlServer.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.Owin.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.Owin.Security.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Newtonsoft.Json.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\StructureMap.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\StructureMap.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\StructureMap.Net4.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\StructureMap.Web.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\StructureMap.Web.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\System.Net.Http.Formatting.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\System.Web.Http.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\System.Web.Http.WebHost.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\System.Web.Optimization.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\System.Web.Optimization.Less.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\System.Web.Optimization.Less.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\DataAccess Layer\Pedram.Data\obj\Debug\Pedram.Data.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\DataAccess Layer\Pedram.Data\obj\Debug\Pedram.Data.Migrations.dqwdwqdwq.resources
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\DataAccess Layer\Pedram.Data\obj\Debug\Pedram.Data.Migrations.dqwdwqwqdqwqwdqwqdqwqw.resources
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\DataAccess Layer\Pedram.Data\obj\Debug\Pedram.Data.Migrations.nhrrtjrt.resources
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\DataAccess Layer\Pedram.Data\obj\Debug\Pedram.Data.Migrations.nhrrtjrt1.resources
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\DataAccess Layer\Pedram.Data\obj\Debug\Pedram.Data.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\DataAccess Layer\Pedram.Data\obj\Debug\Pedram.Data.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\IranDejak\Pedram\DataAccess Layer\Pedram.Data\obj\Debug\Pedram.Data.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Pedram.Data.dll.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Pedram.Data.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Pedram.Data.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Antlr3.Runtime.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\AutoMapper.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\dotless.Core.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\EntityFramework.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\EntityFramework.SqlServer.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.Owin.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.Owin.Security.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.Web.Infrastructure.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Newtonsoft.Json.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Owin.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Pedram.Core.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\StructureMap.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\StructureMap.Net4.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\StructureMap.Web.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\System.Net.Http.Formatting.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\System.Web.Http.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\System.Web.Http.WebHost.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\System.Web.Optimization.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\System.Web.Optimization.Less.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\WebGrease.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Pedram.Core.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Antlr3.Runtime.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\AutoMapper.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\dotless.Core.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\EntityFramework.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\EntityFramework.SqlServer.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.Owin.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.Owin.Security.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Newtonsoft.Json.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\StructureMap.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\StructureMap.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\StructureMap.Net4.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\StructureMap.Web.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\StructureMap.Web.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\System.Net.Http.Formatting.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\System.Web.Http.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\System.Web.Http.WebHost.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\System.Web.Optimization.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\System.Web.Optimization.Less.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\System.Web.Optimization.Less.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\DataAccess Layer\Pedram.Data\obj\Debug\Pedram.Data.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\DataAccess Layer\Pedram.Data\obj\Debug\Pedram.Data.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CreateSenario\Pedram\DataAccess Layer\Pedram.Data\obj\Debug\Pedram.Data.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Pedram.Data.dll.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Pedram.Data.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Pedram.Data.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Antlr3.Runtime.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\AutoMapper.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\dotless.Core.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\EntityFramework.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\EntityFramework.SqlServer.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.Owin.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.Owin.Security.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.Web.Infrastructure.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Newtonsoft.Json.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Owin.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Pedram.Core.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\StructureMap.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\StructureMap.Net4.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\StructureMap.Web.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\System.Net.Http.Formatting.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\System.Web.Http.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\System.Web.Http.WebHost.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\System.Web.Optimization.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\System.Web.Optimization.Less.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\WebGrease.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Pedram.Core.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Pedram.Core.dll.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Antlr3.Runtime.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\AutoMapper.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\dotless.Core.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\EntityFramework.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\EntityFramework.SqlServer.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.Owin.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.Owin.Security.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Newtonsoft.Json.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\StructureMap.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\StructureMap.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\StructureMap.Net4.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\StructureMap.Web.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\StructureMap.Web.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\System.Net.Http.Formatting.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\System.Web.Http.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\System.Web.Http.WebHost.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\System.Web.Optimization.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\System.Web.Optimization.Less.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\System.Web.Optimization.Less.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\obj\Debug\Pedram.Data.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\obj\Debug\Pedram.Data.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\obj\Debug\Pedram.Data.pdb
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Pedram.Data.dll.config
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Pedram.Data.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Pedram.Data.pdb
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Antlr3.Runtime.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\AutoMapper.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\dotless.Core.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\EntityFramework.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\EntityFramework.SqlServer.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.Owin.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.Owin.Security.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.Web.Infrastructure.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Newtonsoft.Json.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Owin.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Pedram.Core.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\StructureMap.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\StructureMap.Net4.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\StructureMap.Web.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\System.Net.Http.Formatting.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\System.Web.Http.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\System.Web.Http.WebHost.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\System.Web.Optimization.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\System.Web.Optimization.Less.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\WebGrease.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Pedram.Core.pdb
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Antlr3.Runtime.pdb
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\AutoMapper.xml
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\dotless.Core.pdb
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\EntityFramework.xml
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\EntityFramework.SqlServer.xml
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.Owin.xml
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.Owin.Security.xml
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\Newtonsoft.Json.xml
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\StructureMap.pdb
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\StructureMap.xml
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\StructureMap.Net4.pdb
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\StructureMap.Web.pdb
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\StructureMap.Web.xml
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\System.Net.Http.Formatting.xml
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\System.Web.Http.xml
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\System.Web.Http.WebHost.xml
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\System.Web.Optimization.xml
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\System.Web.Optimization.Less.pdb
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\bin\Debug\System.Web.Optimization.Less.xml
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\obj\Debug\Pedram.Data.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\obj\Debug\Pedram.Data.dll
+\\Mac\Home\Documents\Development\Visualstudio project\Projects\BaseApp\Pedram\DataAccess Layer\Pedram.Data\obj\Debug\Pedram.Data.pdb

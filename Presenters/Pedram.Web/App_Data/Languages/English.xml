@@ -1,0 +1,284 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Language DefaultEnglishName="English" CustomName="English" Calture="En-Gb" RightToLeft="False"  LangIconAddress="Us.png" DefaultLang="false">
+  <LocalString LocalName="Pedram.Login.Email" LocalValue="Email"/>
+  <LocalString LocalName="Pedram.Login.UserName" LocalValue="User Name"/>
+  <LocalString LocalName="Pedram.Login.Password" LocalValue="Password"/>
+  <LocalString LocalName="Pedram.Login.RememberMe" LocalValue="Remember me"/>
+  <LocalString LocalName="Pedram.Login.RegisterNewUser" LocalValue="Register a new user?"/>
+  <LocalString LocalName="Pedram.Login.ForgeYourPassword" LocalValue="Forget your password?"/>
+  <LocalString LocalName="Pedram.Login.LoginBtn" LocalValue="Login"/>
+  <LocalString LocalName="Pedram.Login.Title" LocalValue="Login"/>
+  <LocalString LocalName="Pedram.Login.Title1" LocalValue="Use a local account to log in"/>
+   
+  <LocalString LocalName="Pedram.ExternalLoginList.Title" LocalValue="Use another service to log in"/>
+  
+  <LocalString LocalName="Pedram.VerifyCode.Code" LocalValue="Code"/>
+  <LocalString LocalName="Pedram.Login.RememberBrowser" LocalValue="Remember this browser?"/>
+
+  <LocalString LocalName="Pedram.ResetPassword.Email" LocalValue="Email"/>
+  <LocalString LocalName="Pedram.ResetPassword.Password" LocalValue="Password"/>
+  <LocalString LocalName="Pedram.ResetPassword.ConfirmPassword" LocalValue="Confirm password"/>
+  <LocalString LocalName="Pedram.ResetPassword.Title" LocalValue="Reset password"/>
+  <LocalString LocalName="Pedram.ResetPassword.Title1" LocalValue="Reset your password"/>
+  <LocalString LocalName="Pedram.ResetPassword.Btn" LocalValue="Reset"/>
+
+  <LocalString LocalName="Pedram.ResetPasswordConfirmation.Title" LocalValue="Reset password confirmation"/>
+  <LocalString LocalName="Pedram.ResetPasswordConfirmation.Text" LocalValue="Your password has been reset. Please "/>
+  <LocalString LocalName="Pedram.ResetPasswordConfirmation.LoginLink" LocalValue="click here to log in"/>
+
+  <LocalString LocalName="Pedram.ForgetPassword.Email" LocalValue="Email"/>
+  <LocalString LocalName="Pedram.ForgetPassword.Title" LocalValue="Forgot your password?"/>
+  <LocalString LocalName="Pedram.ForgetPassword.Title1" LocalValue="Enter your email"/>
+  <LocalString LocalName="Pedram.ForgetPassword.Btn" LocalValue="Email Link"/>
+  
+  <LocalString LocalName="Pedram.ExternalLoginConfirmation.Email" LocalValue="Email"/>
+
+  <LocalString LocalName="Pedram.VerifyPhoneNumber.Code" LocalValue="Code"/>
+  <LocalString LocalName="Pedram.VerifyPhoneNumber.PhoneNumber" LocalValue="Phone Number"/>
+
+  <LocalString LocalName="Pedram.SetPassword.NewPassword" LocalValue="New Password"/>
+  <LocalString LocalName="Pedram.SetPassword.ConfirmNewPassword" LocalValue="Confirm New Password"/>
+
+  <LocalString LocalName="Pedram.ChangePassword.CurrentPassword" LocalValue="Current Password"/>
+  <LocalString LocalName="Pedram.ChangePassword.NewPassword" LocalValue="New Password"/>
+  <LocalString LocalName="Pedram.ChangePassword.ConfirmNewPassword" LocalValue="Confirm New Password"/>
+
+  <LocalString LocalName="Pedram.AddPhoneNumber.PhoneNumber" LocalValue="Phone Number"/>
+  
+  <LocalString LocalName="Pedram.Register.Email" LocalValue="Email"/>
+  <LocalString LocalName="Pedram.Register.Name" LocalValue="Name"/>
+  <LocalString LocalName="Pedram.Register.FamilyName" LocalValue="Family Name"/>
+  <LocalString LocalName="Pedram.Register.UserName" LocalValue="User Name"/>
+  <LocalString LocalName="Pedram.Register.BirthDay" LocalValue="Birthday"/>
+  <LocalString LocalName="Pedram.Register.WorkDescription" LocalValue="Work Description"/>
+  <LocalString LocalName="Pedram.Register.Password" LocalValue="Password"/>
+  <LocalString LocalName="Pedram.Register.ConfirmPassword" LocalValue="Confirm password"/>
+  <LocalString LocalName="Pedram.Register.Title" LocalValue="Register new user"/>
+  <LocalString LocalName="Pedram.Register.Btn" LocalValue="Register"/>
+  <LocalString LocalName="Pedram.Register.Confirmyouraccount" LocalValue="Confirm your account"/>
+  <LocalString LocalName="Pedram.Register.ConfirmyouraccountText" LocalValue="Please confirm your account by clicking this link:"/>
+  <LocalString LocalName="Pedram.Register.DisplayEmail.Title" LocalValue="Send Activation Email"/>
+  <LocalString LocalName="Pedram.Register.DisplayEmail.Text" LocalValue="Please check your email and confirm your email address"/>
+
+  <LocalString LocalName="Pedram.ForgetPasswordConfirmation" LocalValue="Please check your email to reset your password."/>
+  <LocalString LocalName="Pedram.ForgetPasswordConfirmation.Title" LocalValue="Forgot Password Confirmation"/>
+
+  <LocalString LocalName="Pedram.Manage.Index.Title" LocalValue="Manage your account"/>
+  <LocalString LocalName="Pedram.Manage.Index.ChangePasswordLink" LocalValue="Change your password"/>
+  <LocalString LocalName="Pedram.Manage.Index.PickPasswordLink" LocalValue="Pick a password"/>
+  <LocalString LocalName="Pedram.Manage.Index.PhoneNumber.Change" LocalValue="Change"/>
+  <LocalString LocalName="Pedram.Manage.Index.PhoneNumber.Remove" LocalValue="Remove"/>
+  <LocalString LocalName="Pedram.Manage.Index.PhoneNumber.Add" LocalValue="Add"/>
+  <LocalString LocalName="Pedram.Manage.Index.PhoneNumber.Text" LocalValue="Phone number"/>
+  <LocalString LocalName="Pedram.Manage.Index.ExternalLogins.Text" LocalValue="External Logins"/>
+  <LocalString LocalName="Pedram.Manage.Index.ExternalLogins.ManageText" LocalValue="Manage"/>
+  <LocalString LocalName="Pedram.Manage.Index.TwoFactor.EnabledText" LocalValue="Two factor is currently enabled"/>
+  <LocalString LocalName="Pedram.Manage.Index.TwoFactor.DisabledText" LocalValue="Two factor is currently disabled"/>
+  <LocalString LocalName="Pedram.Manage.Index.TwoFactor.EnableBtnText" LocalValue="Enable"/>
+  <LocalString LocalName="Pedram.Manage.Index.Browser.RememberedText" LocalValue="Browser is curently remembered for two factor"/>
+  <LocalString LocalName="Pedram.Manage.Index.Browser.NotRememberedText" LocalValue="Browser is curently not remembered for two factor"/>
+  <LocalString LocalName="Pedram.Manage.Index.Browser.ForgetBrowserBtnText" LocalValue="Forget Browser"/>
+  <LocalString LocalName="Pedram.Manage.Index.Browser.RememberBrowserBtnText" LocalValue="Remember Browser"/>
+
+  <LocalString LocalName="Pedram.Manage.AddPhoneNumber.Title" LocalValue="Add Phone Number"/>
+  <LocalString LocalName="Pedram.Manage.AddPhoneNumber.Title1" LocalValue="Add a phone number"/>
+  <LocalString LocalName="Pedram.Manage.AddPhoneNumber.Btn" LocalValue="Send verification code"/>
+
+  <LocalString LocalName="Pedram.Manage.VerifyPhoneNumber.Title" LocalValue="Verify Phone Number"/>
+  <LocalString LocalName="Pedram.Manage.VerifyPhoneNumber.Title1" LocalValue="Add a phone number"/>
+  <LocalString LocalName="Pedram.Manage.VerifyPhoneNumber.Btn" LocalValue="Submit"/>
+
+  <LocalString LocalName="Pedram.Manage.ChangePassword.Title" LocalValue="Change Password"/>
+  <LocalString LocalName="Pedram.Manage.ChangePassword.Title1" LocalValue="Change Password Form"/>
+  <LocalString LocalName="Pedram.Manage.ChangePassword.Btn" LocalValue="Change Password"/>
+
+
+  <LocalString LocalName="Pedram.Admin.Menus.Management" LocalValue="Management"/>
+  <LocalString LocalName="Pedram.Admin.Menus.Management.UsersAccessManagement" LocalValue="Users Access Management"/>
+  <LocalString LocalName="Pedram.Admin.Menus.Management.EditUsersAccesses" LocalValue="Edit Users Accesses"/>
+  <LocalString LocalName="Pedram.Admin.Menus.Management.RolesManagement" LocalValue="Management Roles"/>
+  <LocalString LocalName="Pedram.Admin.Menus.Management.Videos" LocalValue="Videos"/>
+  
+  
+  
+  <LocalString LocalName="Pedram.Admin.RoleManagement" LocalValue="Role Management"/>
+  <LocalString LocalName="Pedram.Admin.RoleManagement.Create" LocalValue="Create Role"/>
+  <LocalString LocalName="Pedram.Admin.RoleManagement.Model.RoleName" LocalValue="Role name"/>
+
+  <LocalString LocalName="Pedram.Admin.Access.Edit.Title1" LocalValue="Edit Users Access"/>
+  <LocalString LocalName="Pedram.Admin.Access.Edit.LabelRoles" LocalValue="Roles"/>
+  <LocalString LocalName="Pedram.Admin.Access.Edit.SubmitBtn" LocalValue="Update"/>
+  <LocalString LocalName="Pedram.Admin.Access.Edit.Model.UserName" LocalValue="User Name"/>
+  <LocalString LocalName="Pedram.Admin.Access.Edit.Model.Email" LocalValue="Email"/>
+  <LocalString LocalName="Pedram.Admin.Access.Index.Title1" LocalValue="Access List"/>
+  <LocalString LocalName="Pedram.Admin.Access.Index.LabelEdit" LocalValue="Edit"/>
+  
+  <LocalString LocalName="Pedram.Admin.Role.Create.Name" LocalValue="Name of role"/>
+  <LocalString LocalName="Pedram.Admin.Role.Create.Title1" LocalValue="Create Role"/>
+  <LocalString LocalName="Pedram.Admin.Role.Create.AccessListLabel" LocalValue="Access List"/>
+  <LocalString LocalName="Pedram.Admin.Role.Create.CreateBtn" LocalValue="Create Role"/>
+  
+  <LocalString LocalName="Pedram.Admin.Role.Index.Title1" LocalValue="Roles Management"/>
+  <LocalString LocalName="Pedram.Admin.Role.Index.CreateRoleBtn" LocalValue="Create new role"/>
+  <LocalString LocalName="Pedram.Admin.Role.Index.EditRoleBtn" LocalValue="Edit This Role"/>
+  <LocalString LocalName="Pedram.Admin.Role.Index.DeleteRoleBtn" LocalValue="Delete"/>
+  <LocalString LocalName="Pedram.Admin.Role.Index.DetailsRoleBtn" LocalValue="Details"/>
+
+  <LocalString LocalName="Pedram.Admin.Role.EditRole.Title1" LocalValue="Edit Role"/>
+
+  <LocalString LocalName="Pedram.Admin.Role.VideoManagement.InsertShowVideo" LocalValue="Insert video"/>
+  <LocalString LocalName="Pedram.Admin.Role.VideoManagement.ShowAllVideos" LocalValue="List of videos"/>
+  <LocalString LocalName="Pedram.Admin.Role.VideoManagement.DeleteVideo" LocalValue="Delete video"/>
+  <LocalString LocalName="Pedram.Admin.Role.VideoManagement.EditVideo" LocalValue="Edit video"/>
+  <LocalString LocalName="Pedram.Admin.SlideShow.InsertSlideShow" LocalValue="Define SlideShow"/>
+
+  <LocalString LocalName="Pedram.Controller.Scenario" LocalValue="Scenario Management"/>
+  <LocalString LocalName="Pedram.Controller.Createscenario" LocalValue="Create Scenario"/>
+  
+  <LocalString LocalName="Pedram.Controller.Home" LocalValue="Home"/>
+  <LocalString LocalName="Pedram.Controller.Home.Index" LocalValue="Home Page"/>
+  <LocalString LocalName="Pedram.Controller.Home.About" LocalValue="About Us"/>
+  <LocalString LocalName="Pedram.Controller.Home.Contact" LocalValue="Contact Us"/>
+  <LocalString LocalName="Pedram.Controller.Account" LocalValue="Account"/>
+  <LocalString LocalName="Pedram.Controller.Account.ForgetPassword" LocalValue="Forget Password"/>
+  <LocalString LocalName="Pedram.Controller.Account.Login" LocalValue="Log In"/>
+  <LocalString LocalName="Pedram.Controller.Account.LogOut" LocalValue="LogOut"/>
+  <LocalString LocalName="Pedram.Controller.Account.Register" LocalValue="Register"/>
+  <LocalString LocalName="Pedram.Controller.Account.ResetPassword" LocalValue="Reset Password"/>
+  <LocalString LocalName="Pedram.Controller.Manage" LocalValue="Manage"/>
+  <LocalString LocalName="Pedram.Controller.Manage.AddPhoneNumber" LocalValue="Add phone number"/>
+  <LocalString LocalName="Pedram.Controller.Manage.ChangePassword" LocalValue="Change Password"/>
+  <LocalString LocalName="Pedram.Controller.AdminPanel.Role" LocalValue="Role Controller"/>
+  <LocalString LocalName="Pedram.Controller.AdminPanel.Role.Create" LocalValue="Create Role"/>
+  <LocalString LocalName="Pedram.Controller.AdminPanel.Role.EditRoles" LocalValue="Edit Roles"/>
+  <LocalString LocalName="Pedram.Controller.AdminPanel.Role.Index" LocalValue="Role Management"/>
+  <LocalString LocalName="Pedram.Controller.AdminPanel.Access" LocalValue="Access Controller"/>
+  <LocalString LocalName="Pedram.Controller.AdminPanel.Access.AccessList" LocalValue="Access List"/>
+  <LocalString LocalName="Pedram.Controller.AdminPanel.Access.EditAccess" LocalValue="Edit Access"/>
+  <LocalString LocalName="Pedram.Controller.AdminPanel.AdminHome" LocalValue="Admin Home"/>
+  <LocalString LocalName="Pedram.Controller.AdminPanel.AdminHome.Index" LocalValue="Index"/>
+  <LocalString LocalName="Pedram.Controller.AdminPanel.AdminHome.ChangeSiteSetting" LocalValue="Change Site Setting"/>
+  <LocalString LocalName="Pedram.Controller.ProductController" LocalValue="Products"/>
+  <LocalString LocalName="Pedram.Controller.xmlController.ShowSitemap" LocalValue="Sitemap"/>
+  
+
+
+
+
+  <LocalString LocalName="Pedram.MainPage.LoginLbl" LocalValue="Login"/>
+  <LocalString LocalName="Pedram.MainPage.ProAccessLbl" LocalValue="Pro access"/>
+  <LocalString LocalName="Pedram.MainPage.FindAPointOfSell" LocalValue="Find a point of sell"/>
+  <LocalString LocalName="Pedram.MainPage.StoreLocator" LocalValue="Store Locator"/>
+  <LocalString LocalName="Pedram.MainPage.StoreName" LocalValue="Dejak"/>
+  <LocalString LocalName="Pedram.MainPage.Product" LocalValue="Product"/>
+  
+  <LocalString LocalName="Pedram.ShowProduct.OurProduct" LocalValue="َOur Product"/>
+  <LocalString LocalName="Pedram.ShowProduct.Section1" LocalValue="َAbout"/>
+  <LocalString LocalName="Pedram.ShowProduct.Section2" LocalValue="Motor"/>
+  <LocalString LocalName="Pedram.ShowProduct.Section3" LocalValue="Why Dejak?"/>
+  <LocalString LocalName="Pedram.ShowProduct.Section4" LocalValue="Choose my solution"/>
+  <LocalString LocalName="Pedram.ShowProduct.Section5" LocalValue="Find my product"/>
+
+
+
+  <LocalString LocalName="Pedram.ShowProductViewModel.ProductName" LocalValue="Product Name"/>
+  <LocalString LocalName="Pedram.ShowProductViewModel.ProductDescription" LocalValue="Description"/>
+  <LocalString LocalName="Pedram.ShowProductViewModel.TechnicalCharacteristic" LocalValue="Technical Descriptions"/>
+  
+  <LocalString LocalName="Pedram.InsertProductGroupModel.Name" LocalValue="Name"/>
+  <LocalString LocalName="Pedram.InsertProductGroupModel.Desc" LocalValue="ِDescription"/>
+  <LocalString LocalName="Pedram.InsertProductGroupModel.ProductImageUpload" LocalValue="Product Image Upload"/>
+  <LocalString LocalName="Pedram.InsertProductGroupModel.ProductVectorImageUpload" LocalValue="Product Image Vector"/>
+  <LocalString LocalName="Pedram.InsertProductGroupModel.TechnicalCharacteristic" LocalValue="Technical Descriptions"/>
+  <LocalString LocalName="Pedram.InsertProductGroupModel.ProductBuyPrice" LocalValue="Buy Price"/>
+  <LocalString LocalName="Pedram.InsertProductGroupModel.ProductSellPrice" LocalValue="Sell Price"/>
+  <LocalString LocalName="Pedram.InsertProductGroupModel.ProductDescription" LocalValue="Product Descriptions"/>
+  
+  <LocalString LocalName="Pedram.ProductManagementController.InsertProductGroup" LocalValue="Insert new Product Group"/>
+  <LocalString LocalName="Pedram.ProductManagementController.EditProductGroup" LocalValue="Edit Product Group"/>
+  <LocalString LocalName="Pedram.ProductManagementController.InsertProductAttachment" LocalValue="Insert new Sub Group Product"/>
+  <LocalString LocalName="Pedram.ProductManagementController.EditProductAttachment" LocalValue="Edit Sub Group Product"/>
+  <LocalString LocalName="Pedram.ProductManagementController.ShowAllProductGroups" LocalValue="Show all product groups"/>
+  <LocalString LocalName="Pedram.ProductManagementController.ShowAllProductAttachments" LocalValue="Show all product sub groups"/>
+  <LocalString LocalName="Pedram.ProductManagementController.ShowAllProduct" LocalValue="Show all product"/>
+  <LocalString LocalName="Pedram.ProductManagementController.AddNewProduct" LocalValue="Insert new Product and continue"/>
+  <LocalString LocalName="Pedram.ProductManagementController.EditProduct" LocalValue="Edit Product"/>
+  <LocalString LocalName="Pedram.ProductManagementController.InsertProductGroupPageAbout" LocalValue="About"/>
+  <LocalString LocalName="Pedram.ProductManagementController.EditProductGroupPageAbout" LocalValue="Edit About"/>
+
+  <LocalString LocalName="Pedram.ProductManagementController.ShowAllProduct.Delete" LocalValue="Delete product"/>
+  
+  <LocalString LocalName="Pedram.ProductManagementController.ShowAllProductGroups.EditProductGroup" LocalValue="Edit this Group"/>
+  <LocalString LocalName="Pedram.ProductManagementController.ShowAllProductGroups.EditProductAttachment" LocalValue="Edit Sub Product Group"/>
+  <LocalString LocalName="Pedram.ProductManagementController.ShowAllProductGroups.DeleteProductGroup" LocalValue="Delete this Group"/>
+  <LocalString LocalName="Pedram.ProductManagementController.ShowAllProductGroups.InsertProductAtachments" LocalValue="Insert Product Group Atachments"/>
+  <LocalString LocalName="Pedram.ProductManagementController.ShowAllProductGroups.InsertProduct" LocalValue="Insert new Product for this sun group"/>
+  <LocalString LocalName="Pedram.ProductManagementController.ShowAllProductGroups.InsertProductGroupPageAbout" LocalValue="Define About Product Group"/>
+  <LocalString LocalName="Pedram.ProductManagementController.ShowAllProductGroups.InsertProductGroupPageMotor" LocalValue="Define Motor Product Group"/>
+  <LocalString LocalName="Pedram.ProductManagementController.ShowAllProductGroups.InsertProductGroupPageWhyDejak" LocalValue="Define Why Dejak"/>
+  <LocalString LocalName="Pedram.ProductManagementController.ShowAllProductGroups.InsertProductGroupPageChooseMySolution" LocalValue="Define Descition Help"/>
+  <LocalString LocalName="Pedram.ProductManagementController.ShowAllProductGroups.InsertProductGroupPageFindMyProduct" LocalValue="Define Profitional Tooles"/>
+  <LocalString LocalName="Pedram.ProductManagementController.ShowAllProductGroups.ManageGroup" LocalValue="Manage Product Group"/>
+  <LocalString LocalName="Pedram.ProductManagementController.ShowAllProductGroups.Define" LocalValue="Define"/>
+  <LocalString LocalName="Pedram.ProductManagementController.ShowAllProductGroups.Edit" LocalValue="Edit"/>
+  <LocalString LocalName="Pedram.ProductManagementController.ShowAllProductGroups.EditProductGroupPageAbout" LocalValue="Edit About Product Group"/>
+  <LocalString LocalName="Pedram.ProductManagementController.ShowAllProductGroups.EditProductGroupPageMotor" LocalValue="Edit Motor Product Group"/>
+  <LocalString LocalName="Pedram.ProductManagementController.ShowAllProductGroups.EditProductGroupPageWhyDejak" LocalValue="Edit Why Dejak"/>
+  <LocalString LocalName="Pedram.ProductManagementController.ShowAllProductGroups.EditProductGroupPageChooseMySolution" LocalValue="Edit Descition Help"/>
+  <LocalString LocalName="Pedram.ProductManagementController.ShowAllProductGroups.EditProductGroupPageFindMyProduct" LocalValue="Edit Profitional Tooles"/>
+
+
+  <LocalString LocalName="Pedram.ShowAllProductGroupsModel.Priority" LocalValue="Priority"/>
+  <LocalString LocalName="Pedram.ShowAllProductGroupsModel.Desc" LocalValue="Description"/>
+  <LocalString LocalName="Pedram.ShowAllProductGroupsModel.Name" LocalValue="Name"/>
+
+
+  <LocalString LocalName="Pedram.ShowAllProductViewModel.ProductGroupName" LocalValue="Product Group Name"/>
+  <LocalString LocalName="Pedram.ShowAllProductViewModel.ProductAttachmentName" LocalValue="Sub Product Group"/>
+  <LocalString LocalName="Pedram.ShowAllProductViewModel.Name" LocalValue="Product Name"/>
+  <LocalString LocalName="Pedram.ShowAllProductViewModel.Desc" LocalValue="Description"/>
+  <LocalString LocalName="Pedram.ShowAllProductViewModel.ProductDescription" LocalValue= "Product Description"/>
+  <LocalString LocalName="Pedram.ShowAllProductViewModel.Priority" LocalValue="Priority"/>
+  
+  <LocalString LocalName="Pedram.InsertProductGroupPageAboutModel.AboutImage1" LocalValue="Upload Image"/>
+  <LocalString LocalName="Pedram.InsertProductGroupPageAboutModel.AboutHeader1" LocalValue="Header"/>
+  <LocalString LocalName="Pedram.InsertProductGroupPageAboutModel.AboutParagraph1" LocalValue="Description"/>
+
+  <LocalString LocalName="Pedram.SlideShowController.InsertSlideShow" LocalValue="Insert SlideShow"/>
+
+
+  <LocalString LocalName="Pedram.SlideShowViewModel.Image1" LocalValue="Image 1"/>
+  <LocalString LocalName="Pedram.SlideShowViewModel.Image2" LocalValue="Image 2"/>
+  <LocalString LocalName="Pedram.SlideShowViewModel.Image3" LocalValue="Image 3"/>
+  
+  <LocalString LocalName="Pedram.SlideShowModel.Header" LocalValue="Header"/>
+  <LocalString LocalName="Pedram.SlideShowModel.Text1" LocalValue="Text for image 1"/>
+  <LocalString LocalName="Pedram.SlideShowModel.Text2" LocalValue="Text for image 2"/>
+  <LocalString LocalName="Pedram.SlideShowModel.Text3" LocalValue="Text for image 3"/>
+  <LocalString LocalName="Pedram.SlideShowModel.FooterText" LocalValue="Footer Text"/>
+  
+  
+  <LocalString LocalName="Pedram.ConfirmAlert.DeleteConfirm" LocalValue="Are you sure to delete this informations?"/>
+  <LocalString LocalName="Pedram.ConfirmAlert.DeleteTitle" LocalValue="Delete Confirmation"/>
+  <LocalString LocalName="Pedram.ConfirmAlert.DeleteYes" LocalValue="Yes, delete it!"/>
+  <LocalString LocalName="Pedram.ConfirmAlert.DeleteNo" LocalValue="No, cancel plx!"/>
+
+
+  <LocalString LocalName="Pedram.WebApplicationName" LocalValue="Iran Desjaac Web Application"/>
+  <LocalString LocalName="Pedram.WebApplicationDescription" LocalValue="Iran Dejaac Web Application Description"/>
+  <LocalString LocalName="Pedram.Copywrite" LocalValue="Iran Dejaac Web Application copywrite"/>
+
+  
+  <LocalString LocalName="Pedram.EditSetting.UseEmailInsteadUserName" LocalValue="Use Email Instead UserName"/>
+  <LocalString LocalName="Pedram.EditSetting.WebsiteDomainName" LocalValue="Website Domain Name"/>
+  <LocalString LocalName="Pedram.EditSetting.copywrite" LocalValue="copy write"/>
+  <LocalString LocalName="Pedram.EditSetting.UseCachToLoadLanguage" LocalValue="Use Cache To Load Language"/>
+  <LocalString LocalName="Pedram.EditSetting.LogoImageUpload" LocalValue="Logo Image"/>
+  <LocalString LocalName="Pedram.EditSetting.WebApplicationName" LocalValue="Web Site Name"/>
+  <LocalString LocalName="Pedram.EditSetting.WebApplicationDescription" LocalValue="Web Site Description"/>
+
+  <LocalString LocalName="Pedram.ShowProduct.AllDescriptions" LocalValue="Go for all descriptions"/>
+  
+  <LocalString LocalName="Pedram.Messages.NullText" LocalValue="Null Text"/>
+
+</Language>
